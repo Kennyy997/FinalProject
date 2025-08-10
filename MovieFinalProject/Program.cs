@@ -1,3 +1,10 @@
+using Microsoft.AspNetCore.Identity;
+using Microsoft.EntityFrameworkCore;
+using MovieFinalProject.DataContext.Entities;
+using MovieFinalProject.DataContext;
+using Mailing;
+using Mailing.MailKitImplementations;
+
 namespace MovieFinalProject
 {
     public class Program
@@ -8,6 +15,37 @@ namespace MovieFinalProject
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
+            builder.Services.AddSession();
+
+            builder.Services.AddIdentity<AppUser, IdentityRole>(options =>
+            {
+                options.Password.RequiredLength = 4;
+                options.Password.RequireDigit = false;
+                options.Password.RequireLowercase = true;
+                options.Password.RequireUppercase = false;
+                options.Password.RequireNonAlphanumeric = false;
+
+                options.Lockout.DefaultLockoutTimeSpan = TimeSpan.FromMinutes(5);
+                options.Lockout.MaxFailedAccessAttempts = 5;
+
+                options.User.RequireUniqueEmail = true;
+
+                options.SignIn.RequireConfirmedEmail = true;
+
+            }).AddEntityFrameworkStores<AppDbContext>().AddDefaultTokenProviders();
+
+
+            builder.Services.AddDbContext<AppDbContext>(options =>
+            {
+                options.UseSqlServer(builder.Configuration.GetConnectionString("Default"));
+            });
+            builder.Services.AddScoped<DataInitializer>();
+
+            builder.Services.AddTransient<IMailService, MailKitMailService>();
+
+            //FilePathConstants.CategoryPath = Path.Combine(builder.Environment.WebRootPath, "images", "category");
+            //FilePathConstants.MenuIteamPath = Path.Combine(builder.Environment.WebRootPath, "images", "menuItem");
+
 
             var app = builder.Build();
 
@@ -27,9 +65,12 @@ namespace MovieFinalProject
             app.UseAuthorization();
 
             app.MapControllerRoute(
+                name: "area",
+                pattern: "{area:exists}/{controller=Dashboard}/{action=Index}/{id?}"
+                );
+            app.MapControllerRoute(
                 name: "default",
                 pattern: "{controller=Home}/{action=Index}/{id?}");
-
             app.Run();
         }
     }

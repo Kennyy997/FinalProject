@@ -14,7 +14,7 @@
         public required string FirstMovie { get; set; }
         public required string LastMovie { get; set; }
         public required string BestMovie { get; set; }
-
+        public List<MovieActor> MovieActors { get; set; } = new List<MovieActor>();
 
     }
 }

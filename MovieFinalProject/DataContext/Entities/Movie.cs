@@ -1,16 +1,18 @@
-﻿namespace MovieFinalProject.DataContext.Entities
+﻿using MovieFinalProject.DataContext.Entities;
+
+public class Movie : BaseEntity
 {
-    public class Movie : BaseEntity
-    {
-        public required string Title { get; set; } 
-        public required string Description { get; set; } 
-        public required string Director { get; set; } 
-        public required DateTime ReleaseDate { get; set; }
-        public required Genre Genre { get; set; }
-        public required Rating Rating { get; set; }
-        public required string Coverimg { get; set; } 
-        public required double RunningTimes { get; set; }
-        public required string TrailerUrl { get; set; }
-        public required string Country { get; set; }
-    }
+    public required string Title { get; set; }
+    public required string Description { get; set; }
+    public required DateTime ReleaseDate { get; set; }
+    public required int MovieTime { get; set; } 
+    public required decimal Rating { get; set; }
+    public required string PosterUrl { get; set; }
+    public  string? TrailerUrl { get; set; }
+    public required int GenreId { get; set; }
+    public Genre ?Genre { get; set; }
+    public int CountryId { get; set; }
+    public Country? Country { get; set; }
+    public List<MovieActor> MovieActors { get; set; } = new List<MovieActor>();
+    public List<Review> ?Reviews { get; set; }
 }

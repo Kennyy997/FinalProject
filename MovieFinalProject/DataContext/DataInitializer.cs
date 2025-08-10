@@ -2,7 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Options;
 using MovieFinalProject.Data;
-using MovieFinalProject.DataBase.Entities;
+using MovieFinalProject.DataContext.Entities;
 namespace MovieFinalProject.DataContext
 {
     public class DataInitializer
@@ -50,7 +50,7 @@ namespace MovieFinalProject.DataContext
             {
                 FullName = _superAdmin.FullName,
                 UserName = _superAdmin.UserName,
-                Email = _superAdmin.Email
+                Email = _superAdmin.Email,
             };
 
             var result = await _userManager.CreateAsync(superAdmin, _superAdmin.Password);

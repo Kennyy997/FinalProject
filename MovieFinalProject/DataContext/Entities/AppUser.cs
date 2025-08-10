@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Identity;
 
-namespace MovieFinalProject.DataBase.Entities;
+namespace MovieFinalProject.DataContext.Entities;
 
 public class AppUser : IdentityUser
 {

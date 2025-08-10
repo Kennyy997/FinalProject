@@ -21,4 +21,8 @@
     <Folder Include="Views\Actor\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Hazir projeler\Mailing\Mailing.csproj" />
+  </ItemGroup>
+
 </Project>
