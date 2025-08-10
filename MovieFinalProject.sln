@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35825.156 d17.13
+VisualStudioVersion = 17.13.35825.156
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieFinalProject", "MovieFinalProject\MovieFinalProject.csproj", "{9AECB410-D71F-4599-B9AF-12F69A6DFBDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mailing", "..\..\Hazir projeler\Mailing\Mailing.csproj", "{AEC89AF4-750E-1740-AE89-BD4F916EA151}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{9AECB410-D71F-4599-B9AF-12F69A6DFBDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9AECB410-D71F-4599-B9AF-12F69A6DFBDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9AECB410-D71F-4599-B9AF-12F69A6DFBDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEC89AF4-750E-1740-AE89-BD4F916EA151}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEC89AF4-750E-1740-AE89-BD4F916EA151}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEC89AF4-750E-1740-AE89-BD4F916EA151}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEC89AF4-750E-1740-AE89-BD4F916EA151}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
