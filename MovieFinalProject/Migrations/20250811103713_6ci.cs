@@ -6,7 +6,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 namespace MovieFinalProject.Migrations
 {
     /// <inheritdoc />
-    public partial class init : Migration
+    public partial class _6ci : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
@@ -85,6 +85,19 @@ namespace MovieFinalProject.Migrations
                 constraints: table =>
                 {
                     table.PrimaryKey("PK_Countries", x => x.Id);
+                });
+
+            migrationBuilder.CreateTable(
+                name: "Qualitys",
+                columns: table => new
+                {
+                    Id = table.Column<int>(type: "int", nullable: false)
+                        .Annotation("SqlServer:Identity", "1, 1"),
+                    Name = table.Column<string>(type: "nvarchar(max)", nullable: false)
+                },
+                constraints: table =>
+                {
+                    table.PrimaryKey("PK_Qualitys", x => x.Id);
                 });
 
             migrationBuilder.CreateTable(
@@ -259,7 +272,7 @@ namespace MovieFinalProject.Migrations
                 });
 
             migrationBuilder.CreateTable(
-                name: "MovieActor",
+                name: "MovieActors",
                 columns: table => new
                 {
                     Id = table.Column<int>(type: "int", nullable: false)
@@ -269,41 +282,15 @@ namespace MovieFinalProject.Migrations
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_MovieActor", x => x.Id);
+                    table.PrimaryKey("PK_MovieActors", x => x.Id);
                     table.ForeignKey(
-                        name: "FK_MovieActor_Actors_ActorId",
+                        name: "FK_MovieActors_Actors_ActorId",
                         column: x => x.ActorId,
                         principalTable: "Actors",
                         principalColumn: "Id",
                         onDelete: ReferentialAction.Cascade);
                     table.ForeignKey(
-                        name: "FK_MovieActor_Movies_MovieId",
-                        column: x => x.MovieId,
-                        principalTable: "Movies",
-                        principalColumn: "Id",
-                        onDelete: ReferentialAction.Cascade);
-                });
-
-            migrationBuilder.CreateTable(
-                name: "MovieGenres",
-                columns: table => new
-                {
-                    Id = table.Column<int>(type: "int", nullable: false)
-                        .Annotation("SqlServer:Identity", "1, 1"),
-                    MovieId = table.Column<int>(type: "int", nullable: false),
-                    GenreId = table.Column<int>(type: "int", nullable: false)
-                },
-                constraints: table =>
-                {
-                    table.PrimaryKey("PK_MovieGenres", x => x.Id);
-                    table.ForeignKey(
-                        name: "FK_MovieGenres_Genres_GenreId",
-                        column: x => x.GenreId,
-                        principalTable: "Genres",
-                        principalColumn: "Id",
-                        onDelete: ReferentialAction.Cascade);
-                    table.ForeignKey(
-                        name: "FK_MovieGenres_Movies_MovieId",
+                        name: "FK_MovieActors_Movies_MovieId",
                         column: x => x.MovieId,
                         principalTable: "Movies",
                         principalColumn: "Id",
@@ -384,23 +371,13 @@ namespace MovieFinalProject.Migrations
                 column: "ActorId");
 
             migrationBuilder.CreateIndex(
-                name: "IX_MovieActor_ActorId",
-                table: "MovieActor",
+                name: "IX_MovieActors_ActorId",
+                table: "MovieActors",
                 column: "ActorId");
 
             migrationBuilder.CreateIndex(
-                name: "IX_MovieActor_MovieId",
-                table: "MovieActor",
-                column: "MovieId");
-
-            migrationBuilder.CreateIndex(
-                name: "IX_MovieGenres_GenreId",
-                table: "MovieGenres",
-                column: "GenreId");
-
-            migrationBuilder.CreateIndex(
-                name: "IX_MovieGenres_MovieId",
-                table: "MovieGenres",
+                name: "IX_MovieActors_MovieId",
+                table: "MovieActors",
                 column: "MovieId");
 
             migrationBuilder.CreateIndex(
@@ -443,10 +420,10 @@ namespace MovieFinalProject.Migrations
                 name: "AspNetUserTokens");
 
             migrationBuilder.DropTable(
-                name: "MovieActor");
+                name: "MovieActors");
 
             migrationBuilder.DropTable(
-                name: "MovieGenres");
+                name: "Qualitys");
 
             migrationBuilder.DropTable(
                 name: "Ratings");

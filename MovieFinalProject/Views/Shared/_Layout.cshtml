@@ -17,8 +17,8 @@
 	<link rel="stylesheet" href="~/assets/webfont/tabler-icons.min.css">
 
 	<!-- Favicons -->
-	<link rel="icon" type="image/png" href="icon/favicon-32x32.png" sizes="32x32">
-	<link rel="apple-touch-icon" href="icon/favicon-32x32.png">
+	<link rel="icon" type="image/png" href="~/assets/icon/favicon-32x32.png" sizes="32x32">
+	<link rel="apple-touch-icon" href="~/assets/icon/favicon-32x32.png">
 
 	<meta name="description" content="Online Movies, TV Shows & Cinema website">
 	<meta name="keywords" content="">
@@ -64,8 +64,8 @@
 									<li><a asp-controller="Aboutus"asp-action="index">About Us</a></li>
 									<li><a asp-controller="profile"asp-action="index">Profile</a></li>
 									<li><a asp-controller="Actor"asp-action="index">Actor</a></li>
-									<li><a href="contacts.html">Contacts</a></li>
-									<li><a href="faq.html">Help center</a></li>
+									<li><a asp-controller="Contacts" asp-action="index" >Contacts</a></li>
+									<li><a asp-controller="HelpCentre" asp-action="index">Help center</a></li>
 									<li><a asp-controller="Home"asp-action="Privacy">Privacy policy</a></li>
 									<li><a href="https://hotflix.volkovdesign.com/admin/index.html" target="_blank">Admin pages</a></li>
 								</ul>
@@ -88,7 +88,7 @@
 						<!-- header auth -->
 						<div class="header__auth">
 							<form action="#" class="header__search">
-								<input class="header__search-input" type="text" placeholder="Search...">
+								<input class="header__search-input" id="searchmentiqi" type="text" placeholder="Search...">
 								<button class="header__search-button" type="button">
 									<i class="ti ti-search"></i>
 								</button>
@@ -120,10 +120,10 @@
 								</a>
 
 								<ul class="dropdown-menu dropdown-menu-end header__dropdown-menu header__dropdown-menu--user">
-									<li><a href="profile.html"><i class="ti ti-ghost"></i>Profile</a></li>
-									<li><a href="profile.html"><i class="ti ti-stereo-glasses"></i>Subscription</a></li>
-									<li><a href="profile.html"><i class="ti ti-bookmark"></i>Favorites</a></li>
-									<li><a href="profile.html"><i class="ti ti-settings"></i>Settings</a></li>
+									<li><a asp-controller="profile"asp-action="index"><i class="ti ti-ghost"></i>Profile</a></li>
+									<li><a asp-controller="profile" asp-action="index"><i class="ti ti-stereo-glasses"></i>Subscription</a></li>
+									<li><a asp-controller="profile" asp-action="index"><i class="ti ti-bookmark"></i>Favorites</a></li>
+									<li><a asp-controller="profile" asp-action="index"><i class="ti ti-settings"></i>Settings</a></li>
 									<li><a href="#"><i class="ti ti-logout"></i>Logout</a></li>
 								</ul>
 							</div>
@@ -169,7 +169,7 @@
 				</div>
 			</div>
 		</div>
-	</footer>
 	</body>
+	</footer>
 	</html>
 	<!-- end footer -->

@@ -2,6 +2,7 @@
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 using MovieFinalProject.DataContext.Entities;
+using Org.BouncyCastle.Pqc.Crypto.Lms;
 
 namespace MovieFinalProject.DataContext
 {
@@ -17,17 +18,8 @@ namespace MovieFinalProject.DataContext
         public DbSet<Country> Countries { get; set; }
         public DbSet<Review> Reviews { get; set; }
         public DbSet<AppUser> AppUsers { get; set; }
+        public DbSet<Quality> Qualitys { get; set; }
         public DbSet<Rating> Ratings { get; set; }
-        public DbSet<MovieActor> MovieActor { get; set; }
-        public DbSet<MovieGenre> MovieGenres { get; set; }
-        protected override void OnModelCreating(ModelBuilder modelBuilder)
-        {
-            foreach (var relationship in modelBuilder.Model.GetEntityTypes()
-                .SelectMany(e => e.GetForeignKeys()))
-            {
-                relationship.DeleteBehavior = DeleteBehavior.Restrict;
-            }
-        }
 
 
     }

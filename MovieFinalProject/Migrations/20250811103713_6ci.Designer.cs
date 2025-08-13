@@ -12,8 +12,8 @@ using MovieFinalProject.DataContext;
 namespace MovieFinalProject.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20250810192605_init")]
-    partial class init
+    [Migration("20250811103713_6ci")]
+    partial class _6ci
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -386,10 +386,10 @@ namespace MovieFinalProject.Migrations
 
                     b.HasIndex("MovieId");
 
-                    b.ToTable("MovieActor");
+                    b.ToTable("MovieActors");
                 });
 
-            modelBuilder.Entity("MovieFinalProject.DataContext.Entities.MovieGenre", b =>
+            modelBuilder.Entity("MovieFinalProject.DataContext.Entities.Quality", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
@@ -397,19 +397,13 @@ namespace MovieFinalProject.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
-                    b.Property<int>("GenreId")
-                        .HasColumnType("int");
-
-                    b.Property<int>("MovieId")
-                        .HasColumnType("int");
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
 
                     b.HasKey("Id");
 
-                    b.HasIndex("GenreId");
-
-                    b.HasIndex("MovieId");
-
-                    b.ToTable("MovieGenres");
+                    b.ToTable("Qualitys");
                 });
 
             modelBuilder.Entity("MovieFinalProject.DataContext.Entities.Rating", b =>
@@ -524,7 +518,7 @@ namespace MovieFinalProject.Migrations
                         .IsRequired();
 
                     b.HasOne("MovieFinalProject.DataContext.Entities.Genre", "Genre")
-                        .WithMany("Movies")
+                        .WithMany()
                         .HasForeignKey("GenreId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
@@ -560,29 +554,10 @@ namespace MovieFinalProject.Migrations
                     b.Navigation("Movie");
                 });
 
-            modelBuilder.Entity("MovieFinalProject.DataContext.Entities.MovieGenre", b =>
-                {
-                    b.HasOne("MovieFinalProject.DataContext.Entities.Genre", "Genre")
-                        .WithMany()
-                        .HasForeignKey("GenreId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.HasOne("Movie", "Movie")
-                        .WithMany()
-                        .HasForeignKey("MovieId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.Navigation("Genre");
-
-                    b.Navigation("Movie");
-                });
-
             modelBuilder.Entity("MovieFinalProject.DataContext.Entities.Review", b =>
                 {
                     b.HasOne("MovieFinalProject.DataContext.Entities.AppUser", "AppUser")
-                        .WithMany("Reviews")
+                        .WithMany()
                         .HasForeignKey("AppUserId");
 
                     b.HasOne("Movie", "Movie")
@@ -610,17 +585,7 @@ namespace MovieFinalProject.Migrations
                     b.Navigation("MovieActors");
                 });
 
-            modelBuilder.Entity("MovieFinalProject.DataContext.Entities.AppUser", b =>
-                {
-                    b.Navigation("Reviews");
-                });
-
             modelBuilder.Entity("MovieFinalProject.DataContext.Entities.Country", b =>
-                {
-                    b.Navigation("Movies");
-                });
-
-            modelBuilder.Entity("MovieFinalProject.DataContext.Entities.Genre", b =>
                 {
                     b.Navigation("Movies");
                 });

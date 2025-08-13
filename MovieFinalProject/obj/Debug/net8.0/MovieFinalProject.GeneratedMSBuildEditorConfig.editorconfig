@@ -40,8 +40,24 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0YWxvZ1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/Code Academy/BackEnd/MovieFinalProject/MovieFinalProject/Views/Contacts/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Code Academy/BackEnd/MovieFinalProject/MovieFinalProject/Views/Contact/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Code Academy/BackEnd/MovieFinalProject/MovieFinalProject/Views/Details/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV0YWlsc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Code Academy/BackEnd/MovieFinalProject/MovieFinalProject/Views/Error/HandleError.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXJyb3JcSGFuZGxlRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Code Academy/BackEnd/MovieFinalProject/MovieFinalProject/Views/HelpCenter/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGVscENlbnRlclxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Code Academy/BackEnd/MovieFinalProject/MovieFinalProject/Views/Home/Index.cshtml]
