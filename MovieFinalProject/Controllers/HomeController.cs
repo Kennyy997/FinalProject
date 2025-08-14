@@ -1,5 +1,6 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using MovieFinalProject.DataContext;
 namespace MovieFinalProject.Controllers;
 
@@ -13,28 +14,16 @@ public class HomeController : Controller
 
     public IActionResult Index()
     {
-        return View();
+        var model = _context.Movies
+    .Include(m => m.MovieGenres)
+    .ThenInclude(mg => mg.Genre)
+    .ToList();
+        return View(model);
     }
     public IActionResult Privacy()
     {
         return View();
     }
-    [HttpGet]
-    public JsonResult Search(string query)
-    {
-        if (string.IsNullOrWhiteSpace(query))
-            return Json(new List<object>());
+ 
 
-        var movies = _context.Movies
-            .Where(m => m.Title.Contains(query))
-            .Select(m => new
-            {
-                m.Id,
-                m.Title,
-                m.PosterUrl
-            })
-            .ToList();
-
-        return Json(movies);
-    }
 }
