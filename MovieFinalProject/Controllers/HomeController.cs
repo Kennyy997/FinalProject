@@ -1,7 +1,8 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using MovieFinalProject.DataContext;
+using MovieFinalProject.DataAccessLayer;
+
 namespace MovieFinalProject.Controllers;
 
 public class HomeController : Controller
@@ -11,12 +12,10 @@ public class HomeController : Controller
     {
         _context = context;
     }
-
     public IActionResult Index()
     {
         var model = _context.Movies
-    .Include(m => m.MovieGenres)
-    .ThenInclude(mg => mg.Genre)
+    .Include(m => m.Genres)
     .ToList();
         return View(model);
     }

@@ -23,6 +23,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\..\Hazir projeler\Mailing\Mailing.csproj" />
+    <ProjectReference Include="..\DataAccessLayer\MovieFinalProject.DataAccessLayer.csproj" />
   </ItemGroup>
 
 </Project>

@@ -1,0 +1,16 @@
+D:\Code Academy\BackEnd\MovieFinalProject\BusinessLayer\obj\Debug\net8.0\MovieFinalProjectBusinessLogicLayer.csproj.AssemblyReference.cache
+D:\Code Academy\BackEnd\MovieFinalProject\BusinessLayer\obj\Debug\net8.0\MovieFinalProjectBusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code Academy\BackEnd\MovieFinalProject\BusinessLayer\obj\Debug\net8.0\MovieFinalProjectBusinessLogicLayer.AssemblyInfoInputs.cache
+D:\Code Academy\BackEnd\MovieFinalProject\BusinessLayer\obj\Debug\net8.0\MovieFinalProjectBusinessLogicLayer.AssemblyInfo.cs
+D:\Code Academy\BackEnd\MovieFinalProject\BusinessLayer\obj\Debug\net8.0\MovieFinalProjectBusinessLogicLayer.csproj.CoreCompileInputs.cache
+D:\Code Academy\BackEnd\MovieFinalProject\BusinessLayer\obj\Debug\net8.0\MovieFinalProjectBusinessLogicLayer.sourcelink.json
+D:\Code Academy\BackEnd\MovieFinalProject\BusinessLayer\bin\Debug\net8.0\MovieFinalProjectBusinessLogicLayer.deps.json
+D:\Code Academy\BackEnd\MovieFinalProject\BusinessLayer\bin\Debug\net8.0\MovieFinalProjectBusinessLogicLayer.dll
+D:\Code Academy\BackEnd\MovieFinalProject\BusinessLayer\bin\Debug\net8.0\MovieFinalProjectBusinessLogicLayer.pdb
+D:\Code Academy\BackEnd\MovieFinalProject\BusinessLayer\bin\Debug\net8.0\MovieFinalProject.DataAccessLayer.dll
+D:\Code Academy\BackEnd\MovieFinalProject\BusinessLayer\bin\Debug\net8.0\MovieFinalProject.DataAccessLayer.pdb
+D:\Code Academy\BackEnd\MovieFinalProject\BusinessLayer\obj\Debug\net8.0\MovieFin.440CB1FE.Up2Date
+D:\Code Academy\BackEnd\MovieFinalProject\BusinessLayer\obj\Debug\net8.0\MovieFinalProjectBusinessLogicLayer.dll
+D:\Code Academy\BackEnd\MovieFinalProject\BusinessLayer\obj\Debug\net8.0\refint\MovieFinalProjectBusinessLogicLayer.dll
+D:\Code Academy\BackEnd\MovieFinalProject\BusinessLayer\obj\Debug\net8.0\MovieFinalProjectBusinessLogicLayer.pdb
+D:\Code Academy\BackEnd\MovieFinalProject\BusinessLayer\obj\Debug\net8.0\ref\MovieFinalProjectBusinessLogicLayer.dll

@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using MovieFinalProject.DataContext.Entities;
-using MovieFinalProject.DataContext;
+using MovieFinalProject.DataAccessLayer;
 
 namespace MovieFinalProject.Controllers
 {

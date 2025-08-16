@@ -272,3 +272,5 @@ D:\Code Academy\BackEnd\MovieFinalProject\MovieFinalProject\bin\Debug\net8.0\Mai
 D:\Code Academy\BackEnd\MovieFinalProject\MovieFinalProject\bin\Debug\net8.0\MimeKit.dll
 D:\Code Academy\BackEnd\MovieFinalProject\MovieFinalProject\bin\Debug\net8.0\Mailing.dll
 D:\Code Academy\BackEnd\MovieFinalProject\MovieFinalProject\bin\Debug\net8.0\Mailing.pdb
+D:\Code Academy\BackEnd\MovieFinalProject\MovieFinalProject\bin\Debug\net8.0\MovieFinalProject.DataAccessLayer.dll
+D:\Code Academy\BackEnd\MovieFinalProject\MovieFinalProject\bin\Debug\net8.0\MovieFinalProject.DataAccessLayer.pdb

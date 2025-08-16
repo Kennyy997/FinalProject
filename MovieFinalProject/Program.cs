@@ -1,9 +1,10 @@
-using Microsoft.AspNetCore.Identity;
+﻿using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using MovieFinalProject.DataContext.Entities;
 using MovieFinalProject.DataContext;
 using Mailing;
 using Mailing.MailKitImplementations;
+using MovieFinalProject.DataAccessLayer;
 
 namespace MovieFinalProject
 {
@@ -42,6 +43,8 @@ namespace MovieFinalProject
             builder.Services.AddScoped<DataInitializer>();
 
             builder.Services.AddTransient<IMailService, MailKitMailService>();
+            builder.Services.RegisterDataAccessLayerServices(builder.Configuration);
+            builder.Services.RegisterDataAccessLayerServices = ();
 
             //FilePathConstants.CategoryPath = Path.Combine(builder.Environment.WebRootPath, "images", "category");
             //FilePathConstants.MenuIteamPath = Path.Combine(builder.Environment.WebRootPath, "images", "menuItem");
@@ -56,7 +59,7 @@ namespace MovieFinalProject
                 // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
                 app.UseHsts();
             }
-
+          
             app.UseHttpsRedirection();
             app.UseStaticFiles();
             app.UseRouting();

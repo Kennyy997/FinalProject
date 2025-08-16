@@ -1,0 +1,6 @@
+D:\Code Academy\BackEnd\MovieFinalProject\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+D:\Code Academy\BackEnd\MovieFinalProject\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code Academy\BackEnd\MovieFinalProject\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+D:\Code Academy\BackEnd\MovieFinalProject\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
+D:\Code Academy\BackEnd\MovieFinalProject\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Code Academy\BackEnd\MovieFinalProject\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.sourcelink.json

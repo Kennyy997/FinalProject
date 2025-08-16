@@ -2876,6 +2876,21 @@
         "runtime": {
           "bin/placeholder/Mailing.dll": {}
         }
+      },
+      "MovieFinalProject.DataAccessLayer/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "8.0.19",
+          "Microsoft.EntityFrameworkCore": "8.0.19",
+          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.19"
+        },
+        "compile": {
+          "bin/placeholder/MovieFinalProject.DataAccessLayer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MovieFinalProject.DataAccessLayer.dll": {}
+        }
       }
     }
   },
@@ -7970,6 +7985,11 @@
       "type": "project",
       "path": "../../../Hazir projeler/Mailing/Mailing.csproj",
       "msbuildProject": "../../../Hazir projeler/Mailing/Mailing.csproj"
+    },
+    "MovieFinalProject.DataAccessLayer/1.0.0": {
+      "type": "project",
+      "path": "../DataAccessLayer/MovieFinalProject.DataAccessLayer.csproj",
+      "msbuildProject": "../DataAccessLayer/MovieFinalProject.DataAccessLayer.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -7979,7 +7999,8 @@
       "Microsoft.EntityFrameworkCore >= 8.0.19",
       "Microsoft.EntityFrameworkCore.SqlServer >= 8.0.19",
       "Microsoft.EntityFrameworkCore.Tools >= 8.0.19",
-      "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 8.0.7"
+      "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 8.0.7",
+      "MovieFinalProject.DataAccessLayer >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -8014,6 +8035,9 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
+            "D:\\Code Academy\\BackEnd\\MovieFinalProject\\DataAccessLayer\\MovieFinalProject.DataAccessLayer.csproj": {
+              "projectPath": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\DataAccessLayer\\MovieFinalProject.DataAccessLayer.csproj"
+            },
             "D:\\Code Academy\\Hazir projeler\\Mailing\\Mailing.csproj": {
               "projectPath": "D:\\Code Academy\\Hazir projeler\\Mailing\\Mailing.csproj"
             }

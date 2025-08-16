@@ -11,7 +11,6 @@ namespace MovieFinalProject.ViewModel
         public List<Genre> Genres { get; set; } = new List<Genre>();
         public List<Rating> Ratings { get; set; } = new List<Rating>();
         public List<Actor> Actors { get; set; } = new List<Actor>();
-        public List<MovieGenre> MovieGenres { get; set; } = new List<MovieGenre>();
         public List<Quality> Qualities { get; set; } = new List<Quality>();
         public int TotalMoviesCount { get; set; }
         public int CurrentPage { get; set; } = 1;
