@@ -1,275 +1,275 @@
 {
   "Files": [
     {
-      "Id": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MovieFinalProject.bundle.scp.css",
+      "Id": "D:\\Projects\\FinalProject\\MovieFinalProject\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MovieFinalProject.bundle.scp.css",
       "PackagePath": "staticwebassets\\MovieFinalProject.1s8vud0c41.bundle.scp.css"
     },
     {
-      "Id": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "Id": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\css\\default-skin-2.html",
+      "Id": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\css\\default-skin-2.html",
       "PackagePath": "staticwebassets\\assets\\css\\default-skin-2.html"
     },
     {
-      "Id": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\css\\default-skin.css",
+      "Id": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\css\\default-skin.css",
       "PackagePath": "staticwebassets\\assets\\css\\default-skin.css"
     },
     {
-      "Id": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\css\\default-skin.html",
+      "Id": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\css\\default-skin.html",
       "PackagePath": "staticwebassets\\assets\\css\\default-skin.html"
     },
     {
-      "Id": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\css\\main.css",
+      "Id": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\css\\main.css",
       "PackagePath": "staticwebassets\\assets\\css\\main.css"
     },
     {
-      "Id": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\css\\photoswipe.css",
+      "Id": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\css\\photoswipe.css",
       "PackagePath": "staticwebassets\\assets\\css\\photoswipe.css"
     },
     {
-      "Id": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\css\\plyr.css",
+      "Id": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\css\\plyr.css",
       "PackagePath": "staticwebassets\\assets\\css\\plyr.css"
     },
     {
-      "Id": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\css\\preloader.html",
+      "Id": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\css\\preloader.html",
       "PackagePath": "staticwebassets\\assets\\css\\preloader.html"
     },
     {
-      "Id": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\css\\slimselect.css",
+      "Id": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\css\\slimselect.css",
       "PackagePath": "staticwebassets\\assets\\css\\slimselect.css"
     },
     {
-      "Id": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\css\\splide.min.css",
+      "Id": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\css\\splide.min.css",
       "PackagePath": "staticwebassets\\assets\\css\\splide.min.css"
     },
     {
-      "Id": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\icon\\favicon-32x32.png",
+      "Id": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\icon\\favicon-32x32.png",
       "PackagePath": "staticwebassets\\assets\\icon\\favicon-32x32.png"
     },
     {
-      "Id": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\angle-down.svg",
+      "Id": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\angle-down.svg",
       "PackagePath": "staticwebassets\\assets\\img\\angle-down.svg"
     },
     {
-      "Id": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\bg\\actor__bg.jpg",
+      "Id": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\bg\\actor__bg.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\bg\\actor__bg.jpg"
     },
     {
-      "Id": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\bg\\details__bg.jpg",
+      "Id": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\bg\\details__bg.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\bg\\details__bg.jpg"
     },
     {
-      "Id": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\bg\\home__bg.jpg",
+      "Id": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\bg\\home__bg.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\bg\\home__bg.jpg"
     },
     {
-      "Id": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\bg\\section__bg.jpg",
+      "Id": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\bg\\section__bg.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\bg\\section__bg.jpg"
     },
     {
-      "Id": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\bg\\slide__bg-1.jpg",
+      "Id": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\bg\\slide__bg-1.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\bg\\slide__bg-1.jpg"
     },
     {
-      "Id": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\bg\\slide__bg-2.jpg",
+      "Id": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\bg\\slide__bg-2.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\bg\\slide__bg-2.jpg"
     },
     {
-      "Id": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\bg\\slide__bg-3.jpg",
+      "Id": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\bg\\slide__bg-3.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\bg\\slide__bg-3.jpg"
     },
     {
-      "Id": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\actor.jpg",
+      "Id": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\actor.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\covers\\actor.jpg"
     },
     {
-      "Id": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover.jpg",
+      "Id": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\covers\\cover.jpg"
     },
     {
-      "Id": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover1.jpg",
+      "Id": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover1.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\covers\\cover1.jpg"
     },
     {
-      "Id": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover10.jpg",
+      "Id": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover10.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\covers\\cover10.jpg"
     },
     {
-      "Id": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover11.jpg",
+      "Id": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover11.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\covers\\cover11.jpg"
     },
     {
-      "Id": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover12.jpg",
+      "Id": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover12.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\covers\\cover12.jpg"
     },
     {
-      "Id": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover13.jpg",
+      "Id": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover13.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\covers\\cover13.jpg"
     },
     {
-      "Id": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover14.jpg",
+      "Id": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover14.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\covers\\cover14.jpg"
     },
     {
-      "Id": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover15.jpg",
+      "Id": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover15.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\covers\\cover15.jpg"
     },
     {
-      "Id": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover16.jpg",
+      "Id": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover16.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\covers\\cover16.jpg"
     },
     {
-      "Id": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover17.jpg",
+      "Id": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover17.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\covers\\cover17.jpg"
     },
     {
-      "Id": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover18.jpg",
+      "Id": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover18.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\covers\\cover18.jpg"
     },
     {
-      "Id": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover2.jpg",
+      "Id": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover2.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\covers\\cover2.jpg"
     },
     {
-      "Id": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover3.jpg",
+      "Id": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover3.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\covers\\cover3.jpg"
     },
     {
-      "Id": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover4.jpg",
+      "Id": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover4.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\covers\\cover4.jpg"
     },
     {
-      "Id": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover5.jpg",
+      "Id": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover5.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\covers\\cover5.jpg"
     },
     {
-      "Id": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover6.jpg",
+      "Id": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover6.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\covers\\cover6.jpg"
     },
     {
-      "Id": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover7.jpg",
+      "Id": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover7.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\covers\\cover7.jpg"
     },
     {
-      "Id": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover8.jpg",
+      "Id": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover8.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\covers\\cover8.jpg"
     },
     {
-      "Id": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover9.jpg",
+      "Id": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover9.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\covers\\cover9.jpg"
     },
     {
-      "Id": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\gallery\\project-1.jpg",
+      "Id": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\gallery\\project-1.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\gallery\\project-1.jpg"
     },
     {
-      "Id": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\gallery\\project-2.jpg",
+      "Id": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\gallery\\project-2.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\gallery\\project-2.jpg"
     },
     {
-      "Id": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\gallery\\project-3.jpg",
+      "Id": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\gallery\\project-3.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\gallery\\project-3.jpg"
     },
     {
-      "Id": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\gallery\\project-4.jpg",
+      "Id": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\gallery\\project-4.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\gallery\\project-4.jpg"
     },
     {
-      "Id": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\gallery\\project-5.jpg",
+      "Id": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\gallery\\project-5.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\gallery\\project-5.jpg"
     },
     {
-      "Id": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\gallery\\project-6.jpg",
+      "Id": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\gallery\\project-6.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\gallery\\project-6.jpg"
     },
     {
-      "Id": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\logo.svg",
+      "Id": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\logo.svg",
       "PackagePath": "staticwebassets\\assets\\img\\logo.svg"
     },
     {
-      "Id": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\partners\\3docean-light-background.png",
+      "Id": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\partners\\3docean-light-background.png",
       "PackagePath": "staticwebassets\\assets\\img\\partners\\3docean-light-background.png"
     },
     {
-      "Id": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\partners\\activeden-light-background.png",
+      "Id": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\partners\\activeden-light-background.png",
       "PackagePath": "staticwebassets\\assets\\img\\partners\\activeden-light-background.png"
     },
     {
-      "Id": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\partners\\audiojungle-light-background.png",
+      "Id": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\partners\\audiojungle-light-background.png",
       "PackagePath": "staticwebassets\\assets\\img\\partners\\audiojungle-light-background.png"
     },
     {
-      "Id": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\partners\\codecanyon-light-background.png",
+      "Id": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\partners\\codecanyon-light-background.png",
       "PackagePath": "staticwebassets\\assets\\img\\partners\\codecanyon-light-background.png"
     },
     {
-      "Id": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\partners\\photodune-light-background.png",
+      "Id": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\partners\\photodune-light-background.png",
       "PackagePath": "staticwebassets\\assets\\img\\partners\\photodune-light-background.png"
     },
     {
-      "Id": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\partners\\themeforest-light-background.png",
+      "Id": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\partners\\themeforest-light-background.png",
       "PackagePath": "staticwebassets\\assets\\img\\partners\\themeforest-light-background.png"
     },
     {
-      "Id": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\user.svg",
+      "Id": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\user.svg",
       "PackagePath": "staticwebassets\\assets\\img\\user.svg"
     },
     {
-      "Id": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\js\\bootstrap.bundle.min.js",
+      "Id": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\js\\main.js",
+      "Id": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\js\\main.js",
       "PackagePath": "staticwebassets\\assets\\js\\main.js"
     },
     {
-      "Id": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\js\\photoswipe-ui-default.min.js",
+      "Id": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\js\\photoswipe-ui-default.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\photoswipe-ui-default.min.js"
     },
     {
-      "Id": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\js\\photoswipe.min.js",
+      "Id": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\js\\photoswipe.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\photoswipe.min.js"
     },
     {
-      "Id": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\js\\plyr.min.js",
+      "Id": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\js\\plyr.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\plyr.min.js"
     },
     {
-      "Id": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\js\\slimselect.min.js",
+      "Id": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\js\\slimselect.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\slimselect.min.js"
     },
     {
-      "Id": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\js\\smooth-scrollbar.js",
+      "Id": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\js\\smooth-scrollbar.js",
       "PackagePath": "staticwebassets\\assets\\js\\smooth-scrollbar.js"
     },
     {
-      "Id": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\js\\splide.min.js",
+      "Id": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\js\\splide.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\splide.min.js"
     },
     {
-      "Id": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\webfont\\fonts\\tabler-icons539a.eot",
+      "Id": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\webfont\\fonts\\tabler-icons539a.eot",
       "PackagePath": "staticwebassets\\assets\\webfont\\fonts\\tabler-icons539a.eot"
     },
     {
-      "Id": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\webfont\\fonts\\tabler-icons539a.ttf",
+      "Id": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\webfont\\fonts\\tabler-icons539a.ttf",
       "PackagePath": "staticwebassets\\assets\\webfont\\fonts\\tabler-icons539a.ttf"
     },
     {
-      "Id": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\webfont\\fonts\\tabler-icons539a.woff2",
+      "Id": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\webfont\\fonts\\tabler-icons539a.woff2",
       "PackagePath": "staticwebassets\\assets\\webfont\\fonts\\tabler-icons539a.woff2"
     },
     {
-      "Id": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\webfont\\fonts\\tabler-iconsd41d.eot",
+      "Id": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\webfont\\fonts\\tabler-iconsd41d.eot",
       "PackagePath": "staticwebassets\\assets\\webfont\\fonts\\tabler-iconsd41d.eot"
     },
     {
-      "Id": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\webfont\\fonts\\tabler-iconsd41d.woff",
+      "Id": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\webfont\\fonts\\tabler-iconsd41d.woff",
       "PackagePath": "staticwebassets\\assets\\webfont\\fonts\\tabler-iconsd41d.woff"
     },
     {
-      "Id": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\webfont\\tabler-icons.min.css",
+      "Id": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\webfont\\tabler-icons.min.css",
       "PackagePath": "staticwebassets\\assets\\webfont\\tabler-icons.min.css"
     },
     {

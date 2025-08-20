@@ -44,8 +44,7 @@ namespace MovieFinalProject
 
             builder.Services.AddTransient<IMailService, MailKitMailService>();
             builder.Services.RegisterDataAccessLayerServices(builder.Configuration);
-            builder.Services.RegisterDataAccessLayerServices = ();
-
+            builder.Services.
             //FilePathConstants.CategoryPath = Path.Combine(builder.Environment.WebRootPath, "images", "category");
             //FilePathConstants.MenuIteamPath = Path.Combine(builder.Environment.WebRootPath, "images", "menuItem");
 

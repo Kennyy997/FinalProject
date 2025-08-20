@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "G2VtoNDfbucXeP2xxlK79vUvSq4S9oSmF+Zndqh6t2s=",
+  "Hash": "3QCasZzTHI0A/Kk7IXj66DBSktXxar1lgsptxzncVYw=",
   "Source": "MovieFinalProject",
   "BasePath": "_content/MovieFinalProject",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "MovieFinalProject\\wwwroot",
       "Source": "MovieFinalProject",
-      "ContentRoot": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\",
       "BasePath": "_content/MovieFinalProject",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\obj\\Debug\\net8.0\\scopedcss\\bundle\\MovieFinalProject.styles.css",
+      "Identity": "D:\\Projects\\FinalProject\\MovieFinalProject\\obj\\Debug\\net8.0\\scopedcss\\bundle\\MovieFinalProject.styles.css",
       "SourceId": "MovieFinalProject",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "D:\\Projects\\FinalProject\\MovieFinalProject\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/MovieFinalProject",
       "RelativePath": "MovieFinalProject#[.{fingerprint}]?.styles.css",
       "AssetKind": "All",
@@ -35,13 +35,13 @@
       "Integrity": "MXCEYIRyL3tLCeHV7z4vo20u8dHTGK/1/XdvKtGTdeo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\obj\\Debug\\net8.0\\scopedcss\\bundle\\MovieFinalProject.styles.css"
+      "OriginalItemSpec": "D:\\Projects\\FinalProject\\MovieFinalProject\\obj\\Debug\\net8.0\\scopedcss\\bundle\\MovieFinalProject.styles.css"
     },
     {
-      "Identity": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MovieFinalProject.bundle.scp.css",
+      "Identity": "D:\\Projects\\FinalProject\\MovieFinalProject\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MovieFinalProject.bundle.scp.css",
       "SourceId": "MovieFinalProject",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "D:\\Projects\\FinalProject\\MovieFinalProject\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/MovieFinalProject",
       "RelativePath": "MovieFinalProject#[.{fingerprint}]!.bundle.scp.css",
       "AssetKind": "All",
@@ -56,13 +56,13 @@
       "Integrity": "MXCEYIRyL3tLCeHV7z4vo20u8dHTGK/1/XdvKtGTdeo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MovieFinalProject.bundle.scp.css"
+      "OriginalItemSpec": "D:\\Projects\\FinalProject\\MovieFinalProject\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MovieFinalProject.bundle.scp.css"
     },
     {
-      "Identity": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "Identity": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\css\\bootstrap.min.css",
       "SourceId": "MovieFinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\",
       "BasePath": "_content/MovieFinalProject",
       "RelativePath": "assets/css/bootstrap.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -73,17 +73,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "9v96a4enn7",
-      "Integrity": "iw6jifTiKsba+BuX2ICG92q1Csmj6fsXh5+NA/HxejE=",
+      "Fingerprint": "5y6jbc5180",
+      "Integrity": "7dQYtTBJfjw9ubsM5IjouitWOmLacFjnNj0tmByY1p8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\css\\default-skin.css",
+      "Identity": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\css\\default-skin.css",
       "SourceId": "MovieFinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\",
       "BasePath": "_content/MovieFinalProject",
       "RelativePath": "assets/css/default-skin#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -94,17 +94,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "zhbv4605ve",
-      "Integrity": "9+cqPIQyJRsl8X9iYyWmfTvz0TLiT1g84e4lTOzkFEk=",
+      "Fingerprint": "jg5yh6bbqg",
+      "Integrity": "3bZHAdcz1mvD+a8fKEnTYvJGr/DUIqAzDnan9DN79uo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\css\\default-skin.css"
     },
     {
-      "Identity": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\css\\default-skin.html",
+      "Identity": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\css\\default-skin.html",
       "SourceId": "MovieFinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\",
       "BasePath": "_content/MovieFinalProject",
       "RelativePath": "assets/css/default-skin#[.{fingerprint}]?.html",
       "AssetKind": "All",
@@ -115,17 +115,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "p89zasqvka",
-      "Integrity": "d0z/aHesQP+u2ECYTgJ6O88rNR2i4ih6fgu2Fg424PM=",
+      "Fingerprint": "0ccx2rgral",
+      "Integrity": "UPWFZlvOGSfHrRK9RBt9t9qyWTzwIg49DITDuSFLYzY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\css\\default-skin.html"
     },
     {
-      "Identity": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\css\\default-skin-2.html",
+      "Identity": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\css\\default-skin-2.html",
       "SourceId": "MovieFinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\",
       "BasePath": "_content/MovieFinalProject",
       "RelativePath": "assets/css/default-skin-2#[.{fingerprint}]?.html",
       "AssetKind": "All",
@@ -136,17 +136,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "p89zasqvka",
-      "Integrity": "d0z/aHesQP+u2ECYTgJ6O88rNR2i4ih6fgu2Fg424PM=",
+      "Fingerprint": "0ccx2rgral",
+      "Integrity": "UPWFZlvOGSfHrRK9RBt9t9qyWTzwIg49DITDuSFLYzY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\css\\default-skin-2.html"
     },
     {
-      "Identity": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\css\\main.css",
+      "Identity": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\css\\main.css",
       "SourceId": "MovieFinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\",
       "BasePath": "_content/MovieFinalProject",
       "RelativePath": "assets/css/main#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -157,17 +157,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "dt9ospo8qi",
-      "Integrity": "T5gJP3gGd1KxxZgeNXMHtHo1pctw0QS7YjY0rGhFrvk=",
+      "Fingerprint": "hm16z8h4s9",
+      "Integrity": "uYCz72NGUehetNlDKiX4OjKXY2NsTWn+Z+PpL1YzMGA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\css\\main.css"
     },
     {
-      "Identity": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\css\\photoswipe.css",
+      "Identity": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\css\\photoswipe.css",
       "SourceId": "MovieFinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\",
       "BasePath": "_content/MovieFinalProject",
       "RelativePath": "assets/css/photoswipe#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -178,17 +178,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "ooontt4olu",
-      "Integrity": "SBLU4vv6CA6lHsZ1XyTdhyjJxCjPif/TRkjnsyGAGnE=",
+      "Fingerprint": "fvlrtcgq9w",
+      "Integrity": "exRHdJqywftnNCcHnE9lEQtgItyuNPxO30OD58H61dI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\css\\photoswipe.css"
     },
     {
-      "Identity": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\css\\plyr.css",
+      "Identity": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\css\\plyr.css",
       "SourceId": "MovieFinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\",
       "BasePath": "_content/MovieFinalProject",
       "RelativePath": "assets/css/plyr#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -206,10 +206,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\plyr.css"
     },
     {
-      "Identity": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\css\\preloader.html",
+      "Identity": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\css\\preloader.html",
       "SourceId": "MovieFinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\",
       "BasePath": "_content/MovieFinalProject",
       "RelativePath": "assets/css/preloader#[.{fingerprint}]?.html",
       "AssetKind": "All",
@@ -220,17 +220,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "p89zasqvka",
-      "Integrity": "d0z/aHesQP+u2ECYTgJ6O88rNR2i4ih6fgu2Fg424PM=",
+      "Fingerprint": "0ccx2rgral",
+      "Integrity": "UPWFZlvOGSfHrRK9RBt9t9qyWTzwIg49DITDuSFLYzY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\css\\preloader.html"
     },
     {
-      "Identity": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\css\\slimselect.css",
+      "Identity": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\css\\slimselect.css",
       "SourceId": "MovieFinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\",
       "BasePath": "_content/MovieFinalProject",
       "RelativePath": "assets/css/slimselect#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -241,17 +241,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "hwi3etgmom",
-      "Integrity": "j5vXfI/mbWrZ5IgIKUSYxZsms2eJAyJZE7DgHkVuv38=",
+      "Fingerprint": "mjj683cyt8",
+      "Integrity": "jiOojptRngKkbeBzRy7baaYR/AQaqG3N3AvU9rEWnkM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\css\\slimselect.css"
     },
     {
-      "Identity": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\css\\splide.min.css",
+      "Identity": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\css\\splide.min.css",
       "SourceId": "MovieFinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\",
       "BasePath": "_content/MovieFinalProject",
       "RelativePath": "assets/css/splide.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -269,10 +269,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\splide.min.css"
     },
     {
-      "Identity": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\icon\\favicon-32x32.png",
+      "Identity": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\icon\\favicon-32x32.png",
       "SourceId": "MovieFinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\",
       "BasePath": "_content/MovieFinalProject",
       "RelativePath": "assets/icon/favicon-32x32#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -290,10 +290,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\icon\\favicon-32x32.png"
     },
     {
-      "Identity": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\angle-down.svg",
+      "Identity": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\angle-down.svg",
       "SourceId": "MovieFinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\",
       "BasePath": "_content/MovieFinalProject",
       "RelativePath": "assets/img/angle-down#[.{fingerprint}]?.svg",
       "AssetKind": "All",
@@ -304,17 +304,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "9tlmm5w6tr",
-      "Integrity": "E142fWAUka3lIhjHHdPRuHcaaekBMXDfZ57iNtlC5LU=",
+      "Fingerprint": "aw1laqbhdr",
+      "Integrity": "2t7EHeDG4MEwkDEM2gBXk7r1FGpo+MybbeQ48AVx83A=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\img\\angle-down.svg"
     },
     {
-      "Identity": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\bg\\actor__bg.jpg",
+      "Identity": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\bg\\actor__bg.jpg",
       "SourceId": "MovieFinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\",
       "BasePath": "_content/MovieFinalProject",
       "RelativePath": "assets/img/bg/actor__bg#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -332,10 +332,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\bg\\actor__bg.jpg"
     },
     {
-      "Identity": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\bg\\details__bg.jpg",
+      "Identity": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\bg\\details__bg.jpg",
       "SourceId": "MovieFinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\",
       "BasePath": "_content/MovieFinalProject",
       "RelativePath": "assets/img/bg/details__bg#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -353,10 +353,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\bg\\details__bg.jpg"
     },
     {
-      "Identity": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\bg\\home__bg.jpg",
+      "Identity": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\bg\\home__bg.jpg",
       "SourceId": "MovieFinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\",
       "BasePath": "_content/MovieFinalProject",
       "RelativePath": "assets/img/bg/home__bg#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\bg\\home__bg.jpg"
     },
     {
-      "Identity": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\bg\\section__bg.jpg",
+      "Identity": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\bg\\section__bg.jpg",
       "SourceId": "MovieFinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\",
       "BasePath": "_content/MovieFinalProject",
       "RelativePath": "assets/img/bg/section__bg#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -395,10 +395,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\bg\\section__bg.jpg"
     },
     {
-      "Identity": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\bg\\slide__bg-1.jpg",
+      "Identity": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\bg\\slide__bg-1.jpg",
       "SourceId": "MovieFinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\",
       "BasePath": "_content/MovieFinalProject",
       "RelativePath": "assets/img/bg/slide__bg-1#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\bg\\slide__bg-1.jpg"
     },
     {
-      "Identity": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\bg\\slide__bg-2.jpg",
+      "Identity": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\bg\\slide__bg-2.jpg",
       "SourceId": "MovieFinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\",
       "BasePath": "_content/MovieFinalProject",
       "RelativePath": "assets/img/bg/slide__bg-2#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -437,10 +437,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\bg\\slide__bg-2.jpg"
     },
     {
-      "Identity": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\bg\\slide__bg-3.jpg",
+      "Identity": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\bg\\slide__bg-3.jpg",
       "SourceId": "MovieFinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\",
       "BasePath": "_content/MovieFinalProject",
       "RelativePath": "assets/img/bg/slide__bg-3#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -458,10 +458,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\bg\\slide__bg-3.jpg"
     },
     {
-      "Identity": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\actor.jpg",
+      "Identity": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\actor.jpg",
       "SourceId": "MovieFinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\",
       "BasePath": "_content/MovieFinalProject",
       "RelativePath": "assets/img/covers/actor#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -479,10 +479,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\covers\\actor.jpg"
     },
     {
-      "Identity": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover.jpg",
+      "Identity": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover.jpg",
       "SourceId": "MovieFinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\",
       "BasePath": "_content/MovieFinalProject",
       "RelativePath": "assets/img/covers/cover#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -500,10 +500,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\covers\\cover.jpg"
     },
     {
-      "Identity": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover1.jpg",
+      "Identity": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover1.jpg",
       "SourceId": "MovieFinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\",
       "BasePath": "_content/MovieFinalProject",
       "RelativePath": "assets/img/covers/cover1#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -521,10 +521,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\covers\\cover1.jpg"
     },
     {
-      "Identity": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover10.jpg",
+      "Identity": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover10.jpg",
       "SourceId": "MovieFinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\",
       "BasePath": "_content/MovieFinalProject",
       "RelativePath": "assets/img/covers/cover10#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -542,10 +542,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\covers\\cover10.jpg"
     },
     {
-      "Identity": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover11.jpg",
+      "Identity": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover11.jpg",
       "SourceId": "MovieFinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\",
       "BasePath": "_content/MovieFinalProject",
       "RelativePath": "assets/img/covers/cover11#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -563,10 +563,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\covers\\cover11.jpg"
     },
     {
-      "Identity": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover12.jpg",
+      "Identity": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover12.jpg",
       "SourceId": "MovieFinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\",
       "BasePath": "_content/MovieFinalProject",
       "RelativePath": "assets/img/covers/cover12#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -584,10 +584,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\covers\\cover12.jpg"
     },
     {
-      "Identity": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover13.jpg",
+      "Identity": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover13.jpg",
       "SourceId": "MovieFinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\",
       "BasePath": "_content/MovieFinalProject",
       "RelativePath": "assets/img/covers/cover13#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -605,10 +605,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\covers\\cover13.jpg"
     },
     {
-      "Identity": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover14.jpg",
+      "Identity": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover14.jpg",
       "SourceId": "MovieFinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\",
       "BasePath": "_content/MovieFinalProject",
       "RelativePath": "assets/img/covers/cover14#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -626,10 +626,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\covers\\cover14.jpg"
     },
     {
-      "Identity": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover15.jpg",
+      "Identity": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover15.jpg",
       "SourceId": "MovieFinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\",
       "BasePath": "_content/MovieFinalProject",
       "RelativePath": "assets/img/covers/cover15#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -647,10 +647,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\covers\\cover15.jpg"
     },
     {
-      "Identity": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover16.jpg",
+      "Identity": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover16.jpg",
       "SourceId": "MovieFinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\",
       "BasePath": "_content/MovieFinalProject",
       "RelativePath": "assets/img/covers/cover16#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -668,10 +668,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\covers\\cover16.jpg"
     },
     {
-      "Identity": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover17.jpg",
+      "Identity": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover17.jpg",
       "SourceId": "MovieFinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\",
       "BasePath": "_content/MovieFinalProject",
       "RelativePath": "assets/img/covers/cover17#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -689,10 +689,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\covers\\cover17.jpg"
     },
     {
-      "Identity": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover18.jpg",
+      "Identity": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover18.jpg",
       "SourceId": "MovieFinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\",
       "BasePath": "_content/MovieFinalProject",
       "RelativePath": "assets/img/covers/cover18#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -710,10 +710,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\covers\\cover18.jpg"
     },
     {
-      "Identity": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover2.jpg",
+      "Identity": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover2.jpg",
       "SourceId": "MovieFinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\",
       "BasePath": "_content/MovieFinalProject",
       "RelativePath": "assets/img/covers/cover2#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\covers\\cover2.jpg"
     },
     {
-      "Identity": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover3.jpg",
+      "Identity": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover3.jpg",
       "SourceId": "MovieFinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\",
       "BasePath": "_content/MovieFinalProject",
       "RelativePath": "assets/img/covers/cover3#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -752,10 +752,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\covers\\cover3.jpg"
     },
     {
-      "Identity": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover4.jpg",
+      "Identity": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover4.jpg",
       "SourceId": "MovieFinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\",
       "BasePath": "_content/MovieFinalProject",
       "RelativePath": "assets/img/covers/cover4#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -773,10 +773,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\covers\\cover4.jpg"
     },
     {
-      "Identity": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover5.jpg",
+      "Identity": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover5.jpg",
       "SourceId": "MovieFinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\",
       "BasePath": "_content/MovieFinalProject",
       "RelativePath": "assets/img/covers/cover5#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -794,10 +794,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\covers\\cover5.jpg"
     },
     {
-      "Identity": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover6.jpg",
+      "Identity": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover6.jpg",
       "SourceId": "MovieFinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\",
       "BasePath": "_content/MovieFinalProject",
       "RelativePath": "assets/img/covers/cover6#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -815,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\covers\\cover6.jpg"
     },
     {
-      "Identity": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover7.jpg",
+      "Identity": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover7.jpg",
       "SourceId": "MovieFinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\",
       "BasePath": "_content/MovieFinalProject",
       "RelativePath": "assets/img/covers/cover7#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -836,10 +836,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\covers\\cover7.jpg"
     },
     {
-      "Identity": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover8.jpg",
+      "Identity": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover8.jpg",
       "SourceId": "MovieFinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\",
       "BasePath": "_content/MovieFinalProject",
       "RelativePath": "assets/img/covers/cover8#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -857,10 +857,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\covers\\cover8.jpg"
     },
     {
-      "Identity": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover9.jpg",
+      "Identity": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover9.jpg",
       "SourceId": "MovieFinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\",
       "BasePath": "_content/MovieFinalProject",
       "RelativePath": "assets/img/covers/cover9#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -878,10 +878,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\covers\\cover9.jpg"
     },
     {
-      "Identity": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\gallery\\project-1.jpg",
+      "Identity": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\gallery\\project-1.jpg",
       "SourceId": "MovieFinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\",
       "BasePath": "_content/MovieFinalProject",
       "RelativePath": "assets/img/gallery/project-1#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -899,10 +899,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\gallery\\project-1.jpg"
     },
     {
-      "Identity": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\gallery\\project-2.jpg",
+      "Identity": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\gallery\\project-2.jpg",
       "SourceId": "MovieFinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\",
       "BasePath": "_content/MovieFinalProject",
       "RelativePath": "assets/img/gallery/project-2#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -920,10 +920,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\gallery\\project-2.jpg"
     },
     {
-      "Identity": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\gallery\\project-3.jpg",
+      "Identity": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\gallery\\project-3.jpg",
       "SourceId": "MovieFinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\",
       "BasePath": "_content/MovieFinalProject",
       "RelativePath": "assets/img/gallery/project-3#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -941,10 +941,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\gallery\\project-3.jpg"
     },
     {
-      "Identity": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\gallery\\project-4.jpg",
+      "Identity": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\gallery\\project-4.jpg",
       "SourceId": "MovieFinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\",
       "BasePath": "_content/MovieFinalProject",
       "RelativePath": "assets/img/gallery/project-4#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -962,10 +962,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\gallery\\project-4.jpg"
     },
     {
-      "Identity": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\gallery\\project-5.jpg",
+      "Identity": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\gallery\\project-5.jpg",
       "SourceId": "MovieFinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\",
       "BasePath": "_content/MovieFinalProject",
       "RelativePath": "assets/img/gallery/project-5#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -983,10 +983,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\gallery\\project-5.jpg"
     },
     {
-      "Identity": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\gallery\\project-6.jpg",
+      "Identity": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\gallery\\project-6.jpg",
       "SourceId": "MovieFinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\",
       "BasePath": "_content/MovieFinalProject",
       "RelativePath": "assets/img/gallery/project-6#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1004,10 +1004,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\gallery\\project-6.jpg"
     },
     {
-      "Identity": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\logo.svg",
+      "Identity": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\logo.svg",
       "SourceId": "MovieFinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\",
       "BasePath": "_content/MovieFinalProject",
       "RelativePath": "assets/img/logo#[.{fingerprint}]?.svg",
       "AssetKind": "All",
@@ -1018,17 +1018,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "u1wpvh91zg",
-      "Integrity": "fl7FxQnQ2y+VyBPr9DP1gacN8z6+LTbjb5Cce7FP3Ro=",
+      "Fingerprint": "o65hdzgb6l",
+      "Integrity": "gI1lCK9L4RwTAEQQP5Yu/4OqAzOW4+PUreX+GzU6/uU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\img\\logo.svg"
     },
     {
-      "Identity": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\partners\\3docean-light-background.png",
+      "Identity": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\partners\\3docean-light-background.png",
       "SourceId": "MovieFinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\",
       "BasePath": "_content/MovieFinalProject",
       "RelativePath": "assets/img/partners/3docean-light-background#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -1046,10 +1046,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\partners\\3docean-light-background.png"
     },
     {
-      "Identity": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\partners\\activeden-light-background.png",
+      "Identity": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\partners\\activeden-light-background.png",
       "SourceId": "MovieFinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\",
       "BasePath": "_content/MovieFinalProject",
       "RelativePath": "assets/img/partners/activeden-light-background#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -1067,10 +1067,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\partners\\activeden-light-background.png"
     },
     {
-      "Identity": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\partners\\audiojungle-light-background.png",
+      "Identity": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\partners\\audiojungle-light-background.png",
       "SourceId": "MovieFinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\",
       "BasePath": "_content/MovieFinalProject",
       "RelativePath": "assets/img/partners/audiojungle-light-background#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\partners\\audiojungle-light-background.png"
     },
     {
-      "Identity": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\partners\\codecanyon-light-background.png",
+      "Identity": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\partners\\codecanyon-light-background.png",
       "SourceId": "MovieFinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\",
       "BasePath": "_content/MovieFinalProject",
       "RelativePath": "assets/img/partners/codecanyon-light-background#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -1109,10 +1109,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\partners\\codecanyon-light-background.png"
     },
     {
-      "Identity": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\partners\\photodune-light-background.png",
+      "Identity": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\partners\\photodune-light-background.png",
       "SourceId": "MovieFinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\",
       "BasePath": "_content/MovieFinalProject",
       "RelativePath": "assets/img/partners/photodune-light-background#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -1130,10 +1130,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\partners\\photodune-light-background.png"
     },
     {
-      "Identity": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\partners\\themeforest-light-background.png",
+      "Identity": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\partners\\themeforest-light-background.png",
       "SourceId": "MovieFinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\",
       "BasePath": "_content/MovieFinalProject",
       "RelativePath": "assets/img/partners/themeforest-light-background#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -1151,10 +1151,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\partners\\themeforest-light-background.png"
     },
     {
-      "Identity": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\user.svg",
+      "Identity": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\user.svg",
       "SourceId": "MovieFinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\",
       "BasePath": "_content/MovieFinalProject",
       "RelativePath": "assets/img/user#[.{fingerprint}]?.svg",
       "AssetKind": "All",
@@ -1165,17 +1165,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "cwejz68mog",
-      "Integrity": "1FJnXvyTWRPIwzhUeW6cngTw9soknfArSC4Sad99lGA=",
+      "Fingerprint": "cuelayuhav",
+      "Integrity": "nI/K7FbBlTH4B1DPhEuKLrtIBRzsq/ywxIzkkUYNyPM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\img\\user.svg"
     },
     {
-      "Identity": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\js\\bootstrap.bundle.min.js",
+      "Identity": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\js\\bootstrap.bundle.min.js",
       "SourceId": "MovieFinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\",
       "BasePath": "_content/MovieFinalProject",
       "RelativePath": "assets/js/bootstrap.bundle.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1186,17 +1186,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "q4dyqoj6rx",
-      "Integrity": "Bh8LHqeebiyiT0YD5V0+kJ90cboLJ5zbbepAVUEGxqI=",
+      "Fingerprint": "aw78sh43dr",
+      "Integrity": "+lnIxumw61oPX8zf3hpFbQeXGHZb3aK1RccWeiHQAAA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\js\\main.js",
+      "Identity": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\js\\main.js",
       "SourceId": "MovieFinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\",
       "BasePath": "_content/MovieFinalProject",
       "RelativePath": "assets/js/main#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1207,17 +1207,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "do26if6qde",
-      "Integrity": "DSEjDyy8HHULu5ip55csx6csjPZ8Vb6hjdwMMNa+4TM=",
+      "Fingerprint": "n07g8vj9b2",
+      "Integrity": "eSSscM8kXKuEmmkIq8t242mR+8hcy484PGXCGiJULHQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\js\\main.js"
     },
     {
-      "Identity": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\js\\photoswipe.min.js",
+      "Identity": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\js\\photoswipe.min.js",
       "SourceId": "MovieFinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\",
       "BasePath": "_content/MovieFinalProject",
       "RelativePath": "assets/js/photoswipe.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1228,17 +1228,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "4trr4dhvb5",
-      "Integrity": "iG1tiE5xJSJQhKdeOW4cPiSy+RTrnRKjjjrVQ0hexug=",
+      "Fingerprint": "kk00rw53l8",
+      "Integrity": "5I1zh9beyXxKkwurKUaynpBgdJDtl9oekfOR/x8EQPE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\js\\photoswipe.min.js"
     },
     {
-      "Identity": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\js\\photoswipe-ui-default.min.js",
+      "Identity": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\js\\photoswipe-ui-default.min.js",
       "SourceId": "MovieFinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\",
       "BasePath": "_content/MovieFinalProject",
       "RelativePath": "assets/js/photoswipe-ui-default.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1249,17 +1249,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "q9kb59xjh7",
-      "Integrity": "XvSk6Opq7XZ8oUcx213MtikXtbl5bbe4Q9tr4+NJBCg=",
+      "Fingerprint": "k3c2hvn0m9",
+      "Integrity": "QFncEec+AtTLLdeYe0V4E9aFV3teXqTDg8wY4L9WnQI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\js\\photoswipe-ui-default.min.js"
     },
     {
-      "Identity": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\js\\plyr.min.js",
+      "Identity": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\js\\plyr.min.js",
       "SourceId": "MovieFinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\",
       "BasePath": "_content/MovieFinalProject",
       "RelativePath": "assets/js/plyr.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1270,17 +1270,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "2no0noriri",
-      "Integrity": "voP3sbDhk+YDZKsGO8dpMGk9qzne1cf3f1CRgjwRnrk=",
+      "Fingerprint": "c1mwophbo8",
+      "Integrity": "kCON54+ahA8T8ZyzH0/jlvhWQ497+1fOr0JlCeuYh8A=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\js\\plyr.min.js"
     },
     {
-      "Identity": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\js\\slimselect.min.js",
+      "Identity": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\js\\slimselect.min.js",
       "SourceId": "MovieFinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\",
       "BasePath": "_content/MovieFinalProject",
       "RelativePath": "assets/js/slimselect.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1291,17 +1291,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "i8na1zelki",
-      "Integrity": "3j6wJbZ1W/vt7P+LLH21gUr9CcIZ5cS8U4YOHe7UeSs=",
+      "Fingerprint": "17qjfksaht",
+      "Integrity": "o3UDbPKdXA3C1PDNLKdIbtayASrOS0+dS6t3KC1Rfpk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\js\\slimselect.min.js"
     },
     {
-      "Identity": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\js\\smooth-scrollbar.js",
+      "Identity": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\js\\smooth-scrollbar.js",
       "SourceId": "MovieFinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\",
       "BasePath": "_content/MovieFinalProject",
       "RelativePath": "assets/js/smooth-scrollbar#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1312,17 +1312,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "5h5430riiq",
-      "Integrity": "uQfBsa53iBomlakuLVqFKRpj/gEfvvKUL/Hdf4NLDeU=",
+      "Fingerprint": "ky0lsz751z",
+      "Integrity": "HLBOpc96JdEAQNSJDtG+raaWaelU6GnKqUs8itd1Bxs=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\js\\smooth-scrollbar.js"
     },
     {
-      "Identity": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\js\\splide.min.js",
+      "Identity": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\js\\splide.min.js",
       "SourceId": "MovieFinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\",
       "BasePath": "_content/MovieFinalProject",
       "RelativePath": "assets/js/splide.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1333,17 +1333,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "rp5un6rmdj",
-      "Integrity": "b/fLMBwSqO9vy/phDPv6OufPpR+VfUL+OsTEkJMPg+Q=",
+      "Fingerprint": "xt29xjjsog",
+      "Integrity": "a2z8/K+AfxPngEKTEJz9Z1G44EM7vTHHWnPGjtaSPrM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\js\\splide.min.js"
     },
     {
-      "Identity": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\webfont\\fonts\\tabler-icons539a.eot",
+      "Identity": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\webfont\\fonts\\tabler-icons539a.eot",
       "SourceId": "MovieFinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\",
       "BasePath": "_content/MovieFinalProject",
       "RelativePath": "assets/webfont/fonts/tabler-icons539a#[.{fingerprint}]?.eot",
       "AssetKind": "All",
@@ -1361,10 +1361,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\webfont\\fonts\\tabler-icons539a.eot"
     },
     {
-      "Identity": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\webfont\\fonts\\tabler-icons539a.ttf",
+      "Identity": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\webfont\\fonts\\tabler-icons539a.ttf",
       "SourceId": "MovieFinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\",
       "BasePath": "_content/MovieFinalProject",
       "RelativePath": "assets/webfont/fonts/tabler-icons539a#[.{fingerprint}]?.ttf",
       "AssetKind": "All",
@@ -1382,10 +1382,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\webfont\\fonts\\tabler-icons539a.ttf"
     },
     {
-      "Identity": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\webfont\\fonts\\tabler-icons539a.woff2",
+      "Identity": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\webfont\\fonts\\tabler-icons539a.woff2",
       "SourceId": "MovieFinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\",
       "BasePath": "_content/MovieFinalProject",
       "RelativePath": "assets/webfont/fonts/tabler-icons539a#[.{fingerprint}]?.woff2",
       "AssetKind": "All",
@@ -1403,10 +1403,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\webfont\\fonts\\tabler-icons539a.woff2"
     },
     {
-      "Identity": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\webfont\\fonts\\tabler-iconsd41d.eot",
+      "Identity": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\webfont\\fonts\\tabler-iconsd41d.eot",
       "SourceId": "MovieFinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\",
       "BasePath": "_content/MovieFinalProject",
       "RelativePath": "assets/webfont/fonts/tabler-iconsd41d#[.{fingerprint}]?.eot",
       "AssetKind": "All",
@@ -1424,10 +1424,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\webfont\\fonts\\tabler-iconsd41d.eot"
     },
     {
-      "Identity": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\webfont\\fonts\\tabler-iconsd41d.woff",
+      "Identity": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\webfont\\fonts\\tabler-iconsd41d.woff",
       "SourceId": "MovieFinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\",
       "BasePath": "_content/MovieFinalProject",
       "RelativePath": "assets/webfont/fonts/tabler-iconsd41d#[.{fingerprint}]?.woff",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\webfont\\fonts\\tabler-iconsd41d.woff"
     },
     {
-      "Identity": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\webfont\\tabler-icons.min.css",
+      "Identity": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\webfont\\tabler-icons.min.css",
       "SourceId": "MovieFinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\",
       "BasePath": "_content/MovieFinalProject",
       "RelativePath": "assets/webfont/tabler-icons.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1459,8 +1459,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "v1ofy9qcbo",
-      "Integrity": "fRKASe1+lRDloIFBIOcODfYyRanEITBwbLWkc203TBQ=",
+      "Fingerprint": "4lmd497kqs",
+      "Integrity": "mGug8hiVMvtIeI3eJAVZHTQZJ6tP5MqmQhj0SL6Np6w=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\webfont\\tabler-icons.min.css"
@@ -1468,8 +1468,8 @@
   ],
   "Endpoints": [
     {
-      "Route": "assets/css/bootstrap.min.9v96a4enn7.css",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "Route": "assets/css/bootstrap.min.5y6jbc5180.css",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\css\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1478,7 +1478,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "220812"
+          "Value": "220817"
         },
         {
           "Name": "Content-Type",
@@ -1486,11 +1486,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"iw6jifTiKsba+BuX2ICG92q1Csmj6fsXh5+NA/HxejE=\""
+          "Value": "\"7dQYtTBJfjw9ubsM5IjouitWOmLacFjnNj0tmByY1p8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:26:52 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1500,7 +1500,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "9v96a4enn7"
+          "Value": "5y6jbc5180"
         },
         {
           "Name": "label",
@@ -1508,13 +1508,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-iw6jifTiKsba+BuX2ICG92q1Csmj6fsXh5+NA/HxejE="
+          "Value": "sha256-7dQYtTBJfjw9ubsM5IjouitWOmLacFjnNj0tmByY1p8="
         }
       ]
     },
     {
       "Route": "assets/css/bootstrap.min.css",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\css\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1523,7 +1523,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "220812"
+          "Value": "220817"
         },
         {
           "Name": "Content-Type",
@@ -1531,11 +1531,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"iw6jifTiKsba+BuX2ICG92q1Csmj6fsXh5+NA/HxejE=\""
+          "Value": "\"7dQYtTBJfjw9ubsM5IjouitWOmLacFjnNj0tmByY1p8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:26:52 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1545,13 +1545,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-iw6jifTiKsba+BuX2ICG92q1Csmj6fsXh5+NA/HxejE="
+          "Value": "sha256-7dQYtTBJfjw9ubsM5IjouitWOmLacFjnNj0tmByY1p8="
         }
       ]
     },
     {
-      "Route": "assets/css/default-skin.css",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\css\\default-skin.css",
+      "Route": "assets/css/default-skin.0ccx2rgral.html",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\css\\default-skin.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1560,44 +1560,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "11612"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"9+cqPIQyJRsl8X9iYyWmfTvz0TLiT1g84e4lTOzkFEk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:26:52 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-9+cqPIQyJRsl8X9iYyWmfTvz0TLiT1g84e4lTOzkFEk="
-        }
-      ]
-    },
-    {
-      "Route": "assets/css/default-skin.html",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\css\\default-skin.html",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "3507"
+          "Value": "3618"
         },
         {
           "Name": "Content-Type",
@@ -1605,48 +1568,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"d0z/aHesQP+u2ECYTgJ6O88rNR2i4ih6fgu2Fg424PM=\""
+          "Value": "\"UPWFZlvOGSfHrRK9RBt9t9qyWTzwIg49DITDuSFLYzY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 09 Aug 2025 07:05:54 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-d0z/aHesQP+u2ECYTgJ6O88rNR2i4ih6fgu2Fg424PM="
-        }
-      ]
-    },
-    {
-      "Route": "assets/css/default-skin.p89zasqvka.html",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\css\\default-skin.html",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "3507"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"d0z/aHesQP+u2ECYTgJ6O88rNR2i4ih6fgu2Fg424PM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 09 Aug 2025 07:05:54 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1656,7 +1582,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "p89zasqvka"
+          "Value": "0ccx2rgral"
         },
         {
           "Name": "label",
@@ -1664,13 +1590,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-d0z/aHesQP+u2ECYTgJ6O88rNR2i4ih6fgu2Fg424PM="
+          "Value": "sha256-UPWFZlvOGSfHrRK9RBt9t9qyWTzwIg49DITDuSFLYzY="
         }
       ]
     },
     {
-      "Route": "assets/css/default-skin.zhbv4605ve.css",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\css\\default-skin.css",
+      "Route": "assets/css/default-skin.css",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\css\\default-skin.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1679,7 +1605,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "11612"
+          "Value": "12094"
         },
         {
           "Name": "Content-Type",
@@ -1687,11 +1613,85 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"9+cqPIQyJRsl8X9iYyWmfTvz0TLiT1g84e4lTOzkFEk=\""
+          "Value": "\"3bZHAdcz1mvD+a8fKEnTYvJGr/DUIqAzDnan9DN79uo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:26:52 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3bZHAdcz1mvD+a8fKEnTYvJGr/DUIqAzDnan9DN79uo="
+        }
+      ]
+    },
+    {
+      "Route": "assets/css/default-skin.html",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\css\\default-skin.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3618"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UPWFZlvOGSfHrRK9RBt9t9qyWTzwIg49DITDuSFLYzY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UPWFZlvOGSfHrRK9RBt9t9qyWTzwIg49DITDuSFLYzY="
+        }
+      ]
+    },
+    {
+      "Route": "assets/css/default-skin.jg5yh6bbqg.css",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\css\\default-skin.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12094"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3bZHAdcz1mvD+a8fKEnTYvJGr/DUIqAzDnan9DN79uo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1701,7 +1701,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "zhbv4605ve"
+          "Value": "jg5yh6bbqg"
         },
         {
           "Name": "label",
@@ -1709,13 +1709,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-9+cqPIQyJRsl8X9iYyWmfTvz0TLiT1g84e4lTOzkFEk="
+          "Value": "sha256-3bZHAdcz1mvD+a8fKEnTYvJGr/DUIqAzDnan9DN79uo="
         }
       ]
     },
     {
-      "Route": "assets/css/default-skin-2.html",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\css\\default-skin-2.html",
+      "Route": "assets/css/default-skin-2.0ccx2rgral.html",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\css\\default-skin-2.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1724,7 +1724,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3507"
+          "Value": "3618"
         },
         {
           "Name": "Content-Type",
@@ -1732,48 +1732,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"d0z/aHesQP+u2ECYTgJ6O88rNR2i4ih6fgu2Fg424PM=\""
+          "Value": "\"UPWFZlvOGSfHrRK9RBt9t9qyWTzwIg49DITDuSFLYzY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 09 Aug 2025 07:05:54 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-d0z/aHesQP+u2ECYTgJ6O88rNR2i4ih6fgu2Fg424PM="
-        }
-      ]
-    },
-    {
-      "Route": "assets/css/default-skin-2.p89zasqvka.html",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\css\\default-skin-2.html",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "3507"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"d0z/aHesQP+u2ECYTgJ6O88rNR2i4ih6fgu2Fg424PM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 09 Aug 2025 07:05:54 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1783,7 +1746,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "p89zasqvka"
+          "Value": "0ccx2rgral"
         },
         {
           "Name": "label",
@@ -1791,13 +1754,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-d0z/aHesQP+u2ECYTgJ6O88rNR2i4ih6fgu2Fg424PM="
+          "Value": "sha256-UPWFZlvOGSfHrRK9RBt9t9qyWTzwIg49DITDuSFLYzY="
         }
       ]
     },
     {
-      "Route": "assets/css/main.css",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\css\\main.css",
+      "Route": "assets/css/default-skin-2.html",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\css\\default-skin-2.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1806,19 +1769,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "82658"
+          "Value": "3618"
         },
         {
           "Name": "Content-Type",
-          "Value": "text/css"
+          "Value": "text/html"
         },
         {
           "Name": "ETag",
-          "Value": "\"T5gJP3gGd1KxxZgeNXMHtHo1pctw0QS7YjY0rGhFrvk=\""
+          "Value": "\"UPWFZlvOGSfHrRK9RBt9t9qyWTzwIg49DITDuSFLYzY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:26:52 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1828,13 +1791,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-T5gJP3gGd1KxxZgeNXMHtHo1pctw0QS7YjY0rGhFrvk="
+          "Value": "sha256-UPWFZlvOGSfHrRK9RBt9t9qyWTzwIg49DITDuSFLYzY="
         }
       ]
     },
     {
-      "Route": "assets/css/main.dt9ospo8qi.css",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\css\\main.css",
+      "Route": "assets/css/main.css",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\css\\main.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1843,7 +1806,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "82658"
+          "Value": "87129"
         },
         {
           "Name": "Content-Type",
@@ -1851,11 +1814,48 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"T5gJP3gGd1KxxZgeNXMHtHo1pctw0QS7YjY0rGhFrvk=\""
+          "Value": "\"uYCz72NGUehetNlDKiX4OjKXY2NsTWn+Z+PpL1YzMGA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:26:52 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-uYCz72NGUehetNlDKiX4OjKXY2NsTWn+Z+PpL1YzMGA="
+        }
+      ]
+    },
+    {
+      "Route": "assets/css/main.hm16z8h4s9.css",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\css\\main.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "87129"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uYCz72NGUehetNlDKiX4OjKXY2NsTWn+Z+PpL1YzMGA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1865,7 +1865,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "dt9ospo8qi"
+          "Value": "hm16z8h4s9"
         },
         {
           "Name": "label",
@@ -1873,13 +1873,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-T5gJP3gGd1KxxZgeNXMHtHo1pctw0QS7YjY0rGhFrvk="
+          "Value": "sha256-uYCz72NGUehetNlDKiX4OjKXY2NsTWn+Z+PpL1YzMGA="
         }
       ]
     },
     {
       "Route": "assets/css/photoswipe.css",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\css\\photoswipe.css",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\css\\photoswipe.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1888,7 +1888,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4137"
+          "Value": "4316"
         },
         {
           "Name": "Content-Type",
@@ -1896,11 +1896,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"SBLU4vv6CA6lHsZ1XyTdhyjJxCjPif/TRkjnsyGAGnE=\""
+          "Value": "\"exRHdJqywftnNCcHnE9lEQtgItyuNPxO30OD58H61dI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:26:52 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1910,13 +1910,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-SBLU4vv6CA6lHsZ1XyTdhyjJxCjPif/TRkjnsyGAGnE="
+          "Value": "sha256-exRHdJqywftnNCcHnE9lEQtgItyuNPxO30OD58H61dI="
         }
       ]
     },
     {
-      "Route": "assets/css/photoswipe.ooontt4olu.css",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\css\\photoswipe.css",
+      "Route": "assets/css/photoswipe.fvlrtcgq9w.css",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\css\\photoswipe.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1925,7 +1925,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4137"
+          "Value": "4316"
         },
         {
           "Name": "Content-Type",
@@ -1933,11 +1933,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"SBLU4vv6CA6lHsZ1XyTdhyjJxCjPif/TRkjnsyGAGnE=\""
+          "Value": "\"exRHdJqywftnNCcHnE9lEQtgItyuNPxO30OD58H61dI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:26:52 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1947,7 +1947,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ooontt4olu"
+          "Value": "fvlrtcgq9w"
         },
         {
           "Name": "label",
@@ -1955,13 +1955,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-SBLU4vv6CA6lHsZ1XyTdhyjJxCjPif/TRkjnsyGAGnE="
+          "Value": "sha256-exRHdJqywftnNCcHnE9lEQtgItyuNPxO30OD58H61dI="
         }
       ]
     },
     {
       "Route": "assets/css/plyr.css",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\css\\plyr.css",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\css\\plyr.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1982,7 +1982,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:26:52 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1998,7 +1998,7 @@
     },
     {
       "Route": "assets/css/plyr.p2c17zxqsv.css",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\css\\plyr.css",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\css\\plyr.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2019,7 +2019,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:26:52 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2042,8 +2042,8 @@
       ]
     },
     {
-      "Route": "assets/css/preloader.html",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\css\\preloader.html",
+      "Route": "assets/css/preloader.0ccx2rgral.html",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\css\\preloader.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2052,7 +2052,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3507"
+          "Value": "3618"
         },
         {
           "Name": "Content-Type",
@@ -2060,48 +2060,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"d0z/aHesQP+u2ECYTgJ6O88rNR2i4ih6fgu2Fg424PM=\""
+          "Value": "\"UPWFZlvOGSfHrRK9RBt9t9qyWTzwIg49DITDuSFLYzY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 09 Aug 2025 07:05:54 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-d0z/aHesQP+u2ECYTgJ6O88rNR2i4ih6fgu2Fg424PM="
-        }
-      ]
-    },
-    {
-      "Route": "assets/css/preloader.p89zasqvka.html",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\css\\preloader.html",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "3507"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"d0z/aHesQP+u2ECYTgJ6O88rNR2i4ih6fgu2Fg424PM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 09 Aug 2025 07:05:54 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2111,7 +2074,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "p89zasqvka"
+          "Value": "0ccx2rgral"
         },
         {
           "Name": "label",
@@ -2119,13 +2082,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-d0z/aHesQP+u2ECYTgJ6O88rNR2i4ih6fgu2Fg424PM="
+          "Value": "sha256-UPWFZlvOGSfHrRK9RBt9t9qyWTzwIg49DITDuSFLYzY="
         }
       ]
     },
     {
-      "Route": "assets/css/slimselect.css",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\css\\slimselect.css",
+      "Route": "assets/css/preloader.html",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\css\\preloader.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2134,19 +2097,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "9777"
+          "Value": "3618"
         },
         {
           "Name": "Content-Type",
-          "Value": "text/css"
+          "Value": "text/html"
         },
         {
           "Name": "ETag",
-          "Value": "\"j5vXfI/mbWrZ5IgIKUSYxZsms2eJAyJZE7DgHkVuv38=\""
+          "Value": "\"UPWFZlvOGSfHrRK9RBt9t9qyWTzwIg49DITDuSFLYzY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:26:52 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2156,13 +2119,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-j5vXfI/mbWrZ5IgIKUSYxZsms2eJAyJZE7DgHkVuv38="
+          "Value": "sha256-UPWFZlvOGSfHrRK9RBt9t9qyWTzwIg49DITDuSFLYzY="
         }
       ]
     },
     {
-      "Route": "assets/css/slimselect.hwi3etgmom.css",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\css\\slimselect.css",
+      "Route": "assets/css/slimselect.css",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\css\\slimselect.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2171,7 +2134,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "9777"
+          "Value": "9778"
         },
         {
           "Name": "Content-Type",
@@ -2179,11 +2142,48 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"j5vXfI/mbWrZ5IgIKUSYxZsms2eJAyJZE7DgHkVuv38=\""
+          "Value": "\"jiOojptRngKkbeBzRy7baaYR/AQaqG3N3AvU9rEWnkM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:26:52 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jiOojptRngKkbeBzRy7baaYR/AQaqG3N3AvU9rEWnkM="
+        }
+      ]
+    },
+    {
+      "Route": "assets/css/slimselect.mjj683cyt8.css",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\css\\slimselect.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9778"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jiOojptRngKkbeBzRy7baaYR/AQaqG3N3AvU9rEWnkM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2193,7 +2193,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "hwi3etgmom"
+          "Value": "mjj683cyt8"
         },
         {
           "Name": "label",
@@ -2201,13 +2201,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-j5vXfI/mbWrZ5IgIKUSYxZsms2eJAyJZE7DgHkVuv38="
+          "Value": "sha256-jiOojptRngKkbeBzRy7baaYR/AQaqG3N3AvU9rEWnkM="
         }
       ]
     },
     {
       "Route": "assets/css/splide.min.824zf9r843.css",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\css\\splide.min.css",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\css\\splide.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2228,7 +2228,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:26:54 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2252,7 +2252,7 @@
     },
     {
       "Route": "assets/css/splide.min.css",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\css\\splide.min.css",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\css\\splide.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2273,7 +2273,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:26:54 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2289,7 +2289,7 @@
     },
     {
       "Route": "assets/icon/favicon-32x32.1dwj663ss6.png",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\icon\\favicon-32x32.png",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\icon\\favicon-32x32.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2310,7 +2310,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:26:54 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2334,7 +2334,7 @@
     },
     {
       "Route": "assets/icon/favicon-32x32.png",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\icon\\favicon-32x32.png",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\icon\\favicon-32x32.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2355,7 +2355,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:26:54 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2370,8 +2370,8 @@
       ]
     },
     {
-      "Route": "assets/img/angle-down.9tlmm5w6tr.svg",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\angle-down.svg",
+      "Route": "assets/img/angle-down.aw1laqbhdr.svg",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\angle-down.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2380,7 +2380,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1154"
+          "Value": "1163"
         },
         {
           "Name": "Content-Type",
@@ -2388,11 +2388,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"E142fWAUka3lIhjHHdPRuHcaaekBMXDfZ57iNtlC5LU=\""
+          "Value": "\"2t7EHeDG4MEwkDEM2gBXk7r1FGpo+MybbeQ48AVx83A=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:26:54 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2402,7 +2402,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "9tlmm5w6tr"
+          "Value": "aw1laqbhdr"
         },
         {
           "Name": "label",
@@ -2410,13 +2410,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-E142fWAUka3lIhjHHdPRuHcaaekBMXDfZ57iNtlC5LU="
+          "Value": "sha256-2t7EHeDG4MEwkDEM2gBXk7r1FGpo+MybbeQ48AVx83A="
         }
       ]
     },
     {
       "Route": "assets/img/angle-down.svg",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\angle-down.svg",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\angle-down.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2425,7 +2425,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1154"
+          "Value": "1163"
         },
         {
           "Name": "Content-Type",
@@ -2433,11 +2433,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"E142fWAUka3lIhjHHdPRuHcaaekBMXDfZ57iNtlC5LU=\""
+          "Value": "\"2t7EHeDG4MEwkDEM2gBXk7r1FGpo+MybbeQ48AVx83A=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:26:54 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2447,13 +2447,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-E142fWAUka3lIhjHHdPRuHcaaekBMXDfZ57iNtlC5LU="
+          "Value": "sha256-2t7EHeDG4MEwkDEM2gBXk7r1FGpo+MybbeQ48AVx83A="
         }
       ]
     },
     {
       "Route": "assets/img/bg/actor__bg.jpg",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\bg\\actor__bg.jpg",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\bg\\actor__bg.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2474,7 +2474,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:26:56 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2490,7 +2490,7 @@
     },
     {
       "Route": "assets/img/bg/actor__bg.mkk5x1lddr.jpg",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\bg\\actor__bg.jpg",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\bg\\actor__bg.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2511,7 +2511,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:26:56 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2535,7 +2535,7 @@
     },
     {
       "Route": "assets/img/bg/details__bg.jpg",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\bg\\details__bg.jpg",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\bg\\details__bg.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2556,7 +2556,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:26:58 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2572,7 +2572,7 @@
     },
     {
       "Route": "assets/img/bg/details__bg.wk544tkqgg.jpg",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\bg\\details__bg.jpg",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\bg\\details__bg.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2593,7 +2593,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:26:58 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2617,7 +2617,7 @@
     },
     {
       "Route": "assets/img/bg/home__bg.i3ivdxh0q3.jpg",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\bg\\home__bg.jpg",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\bg\\home__bg.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2638,7 +2638,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:26:58 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2662,7 +2662,7 @@
     },
     {
       "Route": "assets/img/bg/home__bg.jpg",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\bg\\home__bg.jpg",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\bg\\home__bg.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2683,7 +2683,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:26:58 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2699,7 +2699,7 @@
     },
     {
       "Route": "assets/img/bg/section__bg.gbixchguqr.jpg",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\bg\\section__bg.jpg",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\bg\\section__bg.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2720,7 +2720,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:26:58 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2744,7 +2744,7 @@
     },
     {
       "Route": "assets/img/bg/section__bg.jpg",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\bg\\section__bg.jpg",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\bg\\section__bg.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2765,7 +2765,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:26:58 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2781,7 +2781,7 @@
     },
     {
       "Route": "assets/img/bg/slide__bg-1.3j4rdj8ewy.jpg",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\bg\\slide__bg-1.jpg",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\bg\\slide__bg-1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2802,7 +2802,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:26:58 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2826,7 +2826,7 @@
     },
     {
       "Route": "assets/img/bg/slide__bg-1.jpg",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\bg\\slide__bg-1.jpg",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\bg\\slide__bg-1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2847,7 +2847,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:26:58 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2863,7 +2863,7 @@
     },
     {
       "Route": "assets/img/bg/slide__bg-2.a6la5voyfy.jpg",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\bg\\slide__bg-2.jpg",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\bg\\slide__bg-2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2884,7 +2884,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:26:58 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2908,7 +2908,7 @@
     },
     {
       "Route": "assets/img/bg/slide__bg-2.jpg",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\bg\\slide__bg-2.jpg",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\bg\\slide__bg-2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2929,7 +2929,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:26:58 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2945,7 +2945,7 @@
     },
     {
       "Route": "assets/img/bg/slide__bg-3.jpg",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\bg\\slide__bg-3.jpg",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\bg\\slide__bg-3.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2966,7 +2966,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:27:00 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2982,7 +2982,7 @@
     },
     {
       "Route": "assets/img/bg/slide__bg-3.v597gvk6g2.jpg",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\bg\\slide__bg-3.jpg",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\bg\\slide__bg-3.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3003,7 +3003,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:27:00 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3027,7 +3027,7 @@
     },
     {
       "Route": "assets/img/covers/actor.jpg",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\actor.jpg",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\actor.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3048,7 +3048,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:27:00 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3064,7 +3064,7 @@
     },
     {
       "Route": "assets/img/covers/actor.ob3zhem6lq.jpg",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\actor.jpg",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\actor.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3085,7 +3085,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:27:00 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3109,7 +3109,7 @@
     },
     {
       "Route": "assets/img/covers/cover.39ppb9q7lz.jpg",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover.jpg",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3130,7 +3130,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:27:00 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3154,7 +3154,7 @@
     },
     {
       "Route": "assets/img/covers/cover.jpg",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover.jpg",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3175,7 +3175,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:27:00 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3191,7 +3191,7 @@
     },
     {
       "Route": "assets/img/covers/cover1.cqpuafprc2.jpg",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover1.jpg",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3212,7 +3212,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:27:00 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3236,7 +3236,7 @@
     },
     {
       "Route": "assets/img/covers/cover1.jpg",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover1.jpg",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3257,7 +3257,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:27:00 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3273,7 +3273,7 @@
     },
     {
       "Route": "assets/img/covers/cover10.c6ekgk4kcy.jpg",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover10.jpg",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover10.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3294,7 +3294,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:27:00 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3318,7 +3318,7 @@
     },
     {
       "Route": "assets/img/covers/cover10.jpg",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover10.jpg",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover10.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3339,7 +3339,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:27:00 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3355,7 +3355,7 @@
     },
     {
       "Route": "assets/img/covers/cover11.jpg",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover11.jpg",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover11.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3376,7 +3376,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:27:00 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3392,7 +3392,7 @@
     },
     {
       "Route": "assets/img/covers/cover11.ytdgw0t298.jpg",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover11.jpg",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover11.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3413,7 +3413,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:27:00 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3437,7 +3437,7 @@
     },
     {
       "Route": "assets/img/covers/cover12.j7z0fxyxqu.jpg",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover12.jpg",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover12.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3458,7 +3458,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:27:00 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3482,7 +3482,7 @@
     },
     {
       "Route": "assets/img/covers/cover12.jpg",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover12.jpg",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover12.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3503,7 +3503,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:27:00 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3519,7 +3519,7 @@
     },
     {
       "Route": "assets/img/covers/cover13.jpg",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover13.jpg",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover13.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3540,7 +3540,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:27:00 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3556,7 +3556,7 @@
     },
     {
       "Route": "assets/img/covers/cover13.v3k6y3wmay.jpg",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover13.jpg",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover13.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3577,7 +3577,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:27:00 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3601,7 +3601,7 @@
     },
     {
       "Route": "assets/img/covers/cover14.jpg",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover14.jpg",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover14.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3622,7 +3622,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:27:00 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3638,7 +3638,7 @@
     },
     {
       "Route": "assets/img/covers/cover14.xjgkyp2k39.jpg",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover14.jpg",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover14.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3659,7 +3659,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:27:00 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3683,7 +3683,7 @@
     },
     {
       "Route": "assets/img/covers/cover15.d41901r6jw.jpg",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover15.jpg",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover15.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3704,7 +3704,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:27:00 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3728,7 +3728,7 @@
     },
     {
       "Route": "assets/img/covers/cover15.jpg",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover15.jpg",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover15.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3749,7 +3749,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:27:00 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3765,7 +3765,7 @@
     },
     {
       "Route": "assets/img/covers/cover16.jpg",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover16.jpg",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover16.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3786,7 +3786,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:27:00 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3802,7 +3802,7 @@
     },
     {
       "Route": "assets/img/covers/cover16.ympxxz8vun.jpg",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover16.jpg",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover16.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3823,7 +3823,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:27:00 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3847,7 +3847,7 @@
     },
     {
       "Route": "assets/img/covers/cover17.70ir3dk1ug.jpg",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover17.jpg",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover17.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3868,7 +3868,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:27:02 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3892,7 +3892,7 @@
     },
     {
       "Route": "assets/img/covers/cover17.jpg",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover17.jpg",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover17.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3913,7 +3913,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:27:02 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3929,7 +3929,7 @@
     },
     {
       "Route": "assets/img/covers/cover18.jpg",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover18.jpg",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover18.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3950,7 +3950,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:27:02 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3966,7 +3966,7 @@
     },
     {
       "Route": "assets/img/covers/cover18.pn2n5rozos.jpg",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover18.jpg",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover18.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3987,7 +3987,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:27:02 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4011,7 +4011,7 @@
     },
     {
       "Route": "assets/img/covers/cover2.jpg",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover2.jpg",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4032,7 +4032,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:27:02 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4048,7 +4048,7 @@
     },
     {
       "Route": "assets/img/covers/cover2.loaul6ikxu.jpg",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover2.jpg",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4069,7 +4069,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:27:02 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4093,7 +4093,7 @@
     },
     {
       "Route": "assets/img/covers/cover3.0vd1rexly6.jpg",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover3.jpg",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover3.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4114,7 +4114,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:27:02 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4138,7 +4138,7 @@
     },
     {
       "Route": "assets/img/covers/cover3.jpg",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover3.jpg",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover3.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4159,7 +4159,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:27:02 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4175,7 +4175,7 @@
     },
     {
       "Route": "assets/img/covers/cover4.jpg",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover4.jpg",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover4.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4196,7 +4196,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:27:02 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4212,7 +4212,7 @@
     },
     {
       "Route": "assets/img/covers/cover4.wg22amf146.jpg",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover4.jpg",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover4.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4233,7 +4233,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:27:02 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4257,7 +4257,7 @@
     },
     {
       "Route": "assets/img/covers/cover5.jpg",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover5.jpg",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover5.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4278,7 +4278,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:27:02 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4294,7 +4294,7 @@
     },
     {
       "Route": "assets/img/covers/cover5.lsavkwyze1.jpg",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover5.jpg",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover5.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4315,7 +4315,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:27:02 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4339,7 +4339,7 @@
     },
     {
       "Route": "assets/img/covers/cover6.fx21a9dhz0.jpg",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover6.jpg",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover6.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4360,7 +4360,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:27:02 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4384,7 +4384,7 @@
     },
     {
       "Route": "assets/img/covers/cover6.jpg",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover6.jpg",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover6.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4405,7 +4405,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:27:02 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4421,7 +4421,7 @@
     },
     {
       "Route": "assets/img/covers/cover7.epu2jg426m.jpg",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover7.jpg",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover7.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4442,7 +4442,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:27:02 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4466,7 +4466,7 @@
     },
     {
       "Route": "assets/img/covers/cover7.jpg",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover7.jpg",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover7.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4487,7 +4487,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:27:02 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4503,7 +4503,7 @@
     },
     {
       "Route": "assets/img/covers/cover8.70fjl0h89s.jpg",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover8.jpg",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover8.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4524,7 +4524,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:27:02 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4548,7 +4548,7 @@
     },
     {
       "Route": "assets/img/covers/cover8.jpg",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover8.jpg",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover8.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4569,7 +4569,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:27:02 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4585,7 +4585,7 @@
     },
     {
       "Route": "assets/img/covers/cover9.dfvsamtait.jpg",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover9.jpg",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover9.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4606,7 +4606,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:27:02 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4630,7 +4630,7 @@
     },
     {
       "Route": "assets/img/covers/cover9.jpg",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover9.jpg",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\covers\\cover9.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4651,7 +4651,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:27:02 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4667,7 +4667,7 @@
     },
     {
       "Route": "assets/img/gallery/project-1.jpg",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\gallery\\project-1.jpg",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\gallery\\project-1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4688,7 +4688,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:27:04 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4704,7 +4704,7 @@
     },
     {
       "Route": "assets/img/gallery/project-1.ovped5c3pi.jpg",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\gallery\\project-1.jpg",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\gallery\\project-1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4725,7 +4725,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:27:04 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4749,7 +4749,7 @@
     },
     {
       "Route": "assets/img/gallery/project-2.jpg",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\gallery\\project-2.jpg",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\gallery\\project-2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4770,7 +4770,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:27:04 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4786,7 +4786,7 @@
     },
     {
       "Route": "assets/img/gallery/project-2.xp1kl760up.jpg",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\gallery\\project-2.jpg",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\gallery\\project-2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4807,7 +4807,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:27:04 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4831,7 +4831,7 @@
     },
     {
       "Route": "assets/img/gallery/project-3.jpg",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\gallery\\project-3.jpg",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\gallery\\project-3.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4852,7 +4852,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:27:04 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4868,7 +4868,7 @@
     },
     {
       "Route": "assets/img/gallery/project-3.z8egh0bwct.jpg",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\gallery\\project-3.jpg",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\gallery\\project-3.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4889,7 +4889,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:27:04 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4913,7 +4913,7 @@
     },
     {
       "Route": "assets/img/gallery/project-4.jpg",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\gallery\\project-4.jpg",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\gallery\\project-4.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4934,7 +4934,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:27:06 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4950,7 +4950,7 @@
     },
     {
       "Route": "assets/img/gallery/project-4.o679gumxgv.jpg",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\gallery\\project-4.jpg",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\gallery\\project-4.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4971,7 +4971,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:27:06 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4995,7 +4995,7 @@
     },
     {
       "Route": "assets/img/gallery/project-5.9kah2rxet4.jpg",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\gallery\\project-5.jpg",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\gallery\\project-5.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5016,7 +5016,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:27:06 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5040,7 +5040,7 @@
     },
     {
       "Route": "assets/img/gallery/project-5.jpg",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\gallery\\project-5.jpg",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\gallery\\project-5.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5061,7 +5061,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:27:06 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5077,7 +5077,7 @@
     },
     {
       "Route": "assets/img/gallery/project-6.conoru8j37.jpg",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\gallery\\project-6.jpg",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\gallery\\project-6.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5098,7 +5098,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:27:06 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5122,7 +5122,7 @@
     },
     {
       "Route": "assets/img/gallery/project-6.jpg",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\gallery\\project-6.jpg",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\gallery\\project-6.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5143,7 +5143,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:27:06 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5158,8 +5158,8 @@
       ]
     },
     {
-      "Route": "assets/img/logo.svg",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\logo.svg",
+      "Route": "assets/img/logo.o65hdzgb6l.svg",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\logo.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5168,7 +5168,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1373"
+          "Value": "1377"
         },
         {
           "Name": "Content-Type",
@@ -5176,48 +5176,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"fl7FxQnQ2y+VyBPr9DP1gacN8z6+LTbjb5Cce7FP3Ro=\""
+          "Value": "\"gI1lCK9L4RwTAEQQP5Yu/4OqAzOW4+PUreX+GzU6/uU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:26:54 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-fl7FxQnQ2y+VyBPr9DP1gacN8z6+LTbjb5Cce7FP3Ro="
-        }
-      ]
-    },
-    {
-      "Route": "assets/img/logo.u1wpvh91zg.svg",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\logo.svg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1373"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/svg+xml"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"fl7FxQnQ2y+VyBPr9DP1gacN8z6+LTbjb5Cce7FP3Ro=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:26:54 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5227,7 +5190,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "u1wpvh91zg"
+          "Value": "o65hdzgb6l"
         },
         {
           "Name": "label",
@@ -5235,13 +5198,50 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-fl7FxQnQ2y+VyBPr9DP1gacN8z6+LTbjb5Cce7FP3Ro="
+          "Value": "sha256-gI1lCK9L4RwTAEQQP5Yu/4OqAzOW4+PUreX+GzU6/uU="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/logo.svg",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\logo.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1377"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gI1lCK9L4RwTAEQQP5Yu/4OqAzOW4+PUreX+GzU6/uU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gI1lCK9L4RwTAEQQP5Yu/4OqAzOW4+PUreX+GzU6/uU="
         }
       ]
     },
     {
       "Route": "assets/img/partners/3docean-light-background.png",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\partners\\3docean-light-background.png",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\partners\\3docean-light-background.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5262,7 +5262,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:27:06 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5278,7 +5278,7 @@
     },
     {
       "Route": "assets/img/partners/3docean-light-background.qr4h0vouk4.png",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\partners\\3docean-light-background.png",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\partners\\3docean-light-background.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5299,7 +5299,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:27:06 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5323,7 +5323,7 @@
     },
     {
       "Route": "assets/img/partners/activeden-light-background.09c7nx8nnt.png",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\partners\\activeden-light-background.png",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\partners\\activeden-light-background.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5344,7 +5344,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:27:06 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5368,7 +5368,7 @@
     },
     {
       "Route": "assets/img/partners/activeden-light-background.png",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\partners\\activeden-light-background.png",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\partners\\activeden-light-background.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5389,7 +5389,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:27:06 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5405,7 +5405,7 @@
     },
     {
       "Route": "assets/img/partners/audiojungle-light-background.png",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\partners\\audiojungle-light-background.png",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\partners\\audiojungle-light-background.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5426,7 +5426,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:27:06 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5442,7 +5442,7 @@
     },
     {
       "Route": "assets/img/partners/audiojungle-light-background.s7he6lekev.png",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\partners\\audiojungle-light-background.png",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\partners\\audiojungle-light-background.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5463,7 +5463,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:27:06 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5487,7 +5487,7 @@
     },
     {
       "Route": "assets/img/partners/codecanyon-light-background.png",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\partners\\codecanyon-light-background.png",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\partners\\codecanyon-light-background.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5508,7 +5508,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:27:06 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5524,7 +5524,7 @@
     },
     {
       "Route": "assets/img/partners/codecanyon-light-background.uovn9b6udm.png",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\partners\\codecanyon-light-background.png",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\partners\\codecanyon-light-background.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5545,7 +5545,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:27:06 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5569,7 +5569,7 @@
     },
     {
       "Route": "assets/img/partners/photodune-light-background.png",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\partners\\photodune-light-background.png",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\partners\\photodune-light-background.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5590,7 +5590,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:27:06 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5606,7 +5606,7 @@
     },
     {
       "Route": "assets/img/partners/photodune-light-background.tcqmu36do4.png",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\partners\\photodune-light-background.png",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\partners\\photodune-light-background.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5627,7 +5627,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:27:06 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5651,7 +5651,7 @@
     },
     {
       "Route": "assets/img/partners/themeforest-light-background.62k4ii6hdz.png",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\partners\\themeforest-light-background.png",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\partners\\themeforest-light-background.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5672,7 +5672,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:27:06 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5696,7 +5696,7 @@
     },
     {
       "Route": "assets/img/partners/themeforest-light-background.png",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\partners\\themeforest-light-background.png",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\partners\\themeforest-light-background.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5717,7 +5717,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:27:06 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5732,8 +5732,8 @@
       ]
     },
     {
-      "Route": "assets/img/user.cwejz68mog.svg",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\user.svg",
+      "Route": "assets/img/user.cuelayuhav.svg",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\user.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5742,7 +5742,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "713"
+          "Value": "718"
         },
         {
           "Name": "Content-Type",
@@ -5750,11 +5750,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"1FJnXvyTWRPIwzhUeW6cngTw9soknfArSC4Sad99lGA=\""
+          "Value": "\"nI/K7FbBlTH4B1DPhEuKLrtIBRzsq/ywxIzkkUYNyPM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:26:54 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5764,7 +5764,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "cwejz68mog"
+          "Value": "cuelayuhav"
         },
         {
           "Name": "label",
@@ -5772,13 +5772,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-1FJnXvyTWRPIwzhUeW6cngTw9soknfArSC4Sad99lGA="
+          "Value": "sha256-nI/K7FbBlTH4B1DPhEuKLrtIBRzsq/ywxIzkkUYNyPM="
         }
       ]
     },
     {
       "Route": "assets/img/user.svg",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\user.svg",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\img\\user.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5787,7 +5787,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "713"
+          "Value": "718"
         },
         {
           "Name": "Content-Type",
@@ -5795,11 +5795,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"1FJnXvyTWRPIwzhUeW6cngTw9soknfArSC4Sad99lGA=\""
+          "Value": "\"nI/K7FbBlTH4B1DPhEuKLrtIBRzsq/ywxIzkkUYNyPM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:26:54 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5809,13 +5809,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-1FJnXvyTWRPIwzhUeW6cngTw9soknfArSC4Sad99lGA="
+          "Value": "sha256-nI/K7FbBlTH4B1DPhEuKLrtIBRzsq/ywxIzkkUYNyPM="
         }
       ]
     },
     {
-      "Route": "assets/js/bootstrap.bundle.min.js",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\js\\bootstrap.bundle.min.js",
+      "Route": "assets/js/bootstrap.bundle.min.aw78sh43dr.js",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\js\\bootstrap.bundle.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5824,7 +5824,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "80599"
+          "Value": "80605"
         },
         {
           "Name": "Content-Type",
@@ -5832,48 +5832,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Bh8LHqeebiyiT0YD5V0+kJ90cboLJ5zbbepAVUEGxqI=\""
+          "Value": "\"+lnIxumw61oPX8zf3hpFbQeXGHZb3aK1RccWeiHQAAA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:26:54 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-Bh8LHqeebiyiT0YD5V0+kJ90cboLJ5zbbepAVUEGxqI="
-        }
-      ]
-    },
-    {
-      "Route": "assets/js/bootstrap.bundle.min.q4dyqoj6rx.js",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\js\\bootstrap.bundle.min.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "80599"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Bh8LHqeebiyiT0YD5V0+kJ90cboLJ5zbbepAVUEGxqI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:26:54 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5883,7 +5846,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "q4dyqoj6rx"
+          "Value": "aw78sh43dr"
         },
         {
           "Name": "label",
@@ -5891,13 +5854,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Bh8LHqeebiyiT0YD5V0+kJ90cboLJ5zbbepAVUEGxqI="
+          "Value": "sha256-+lnIxumw61oPX8zf3hpFbQeXGHZb3aK1RccWeiHQAAA="
         }
       ]
     },
     {
-      "Route": "assets/js/main.do26if6qde.js",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\js\\main.js",
+      "Route": "assets/js/bootstrap.bundle.min.js",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\js\\bootstrap.bundle.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5906,7 +5869,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "14278"
+          "Value": "80605"
         },
         {
           "Name": "Content-Type",
@@ -5914,11 +5877,85 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"DSEjDyy8HHULu5ip55csx6csjPZ8Vb6hjdwMMNa+4TM=\""
+          "Value": "\"+lnIxumw61oPX8zf3hpFbQeXGHZb3aK1RccWeiHQAAA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:26:54 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+lnIxumw61oPX8zf3hpFbQeXGHZb3aK1RccWeiHQAAA="
+        }
+      ]
+    },
+    {
+      "Route": "assets/js/main.js",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\js\\main.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14880"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eSSscM8kXKuEmmkIq8t242mR+8hcy484PGXCGiJULHQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eSSscM8kXKuEmmkIq8t242mR+8hcy484PGXCGiJULHQ="
+        }
+      ]
+    },
+    {
+      "Route": "assets/js/main.n07g8vj9b2.js",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\js\\main.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14880"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eSSscM8kXKuEmmkIq8t242mR+8hcy484PGXCGiJULHQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5928,7 +5965,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "do26if6qde"
+          "Value": "n07g8vj9b2"
         },
         {
           "Name": "label",
@@ -5936,13 +5973,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-DSEjDyy8HHULu5ip55csx6csjPZ8Vb6hjdwMMNa+4TM="
+          "Value": "sha256-eSSscM8kXKuEmmkIq8t242mR+8hcy484PGXCGiJULHQ="
         }
       ]
     },
     {
-      "Route": "assets/js/main.js",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\js\\main.js",
+      "Route": "assets/js/photoswipe.min.js",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\js\\photoswipe.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5951,7 +5988,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "14278"
+          "Value": "31906"
         },
         {
           "Name": "Content-Type",
@@ -5959,11 +5996,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"DSEjDyy8HHULu5ip55csx6csjPZ8Vb6hjdwMMNa+4TM=\""
+          "Value": "\"5I1zh9beyXxKkwurKUaynpBgdJDtl9oekfOR/x8EQPE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:26:54 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5973,13 +6010,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-DSEjDyy8HHULu5ip55csx6csjPZ8Vb6hjdwMMNa+4TM="
+          "Value": "sha256-5I1zh9beyXxKkwurKUaynpBgdJDtl9oekfOR/x8EQPE="
         }
       ]
     },
     {
-      "Route": "assets/js/photoswipe.min.4trr4dhvb5.js",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\js\\photoswipe.min.js",
+      "Route": "assets/js/photoswipe.min.kk00rw53l8.js",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\js\\photoswipe.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5988,7 +6025,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "31903"
+          "Value": "31906"
         },
         {
           "Name": "Content-Type",
@@ -5996,11 +6033,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"iG1tiE5xJSJQhKdeOW4cPiSy+RTrnRKjjjrVQ0hexug=\""
+          "Value": "\"5I1zh9beyXxKkwurKUaynpBgdJDtl9oekfOR/x8EQPE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:26:54 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6010,7 +6047,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "4trr4dhvb5"
+          "Value": "kk00rw53l8"
         },
         {
           "Name": "label",
@@ -6018,50 +6055,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-iG1tiE5xJSJQhKdeOW4cPiSy+RTrnRKjjjrVQ0hexug="
-        }
-      ]
-    },
-    {
-      "Route": "assets/js/photoswipe.min.js",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\js\\photoswipe.min.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "31903"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"iG1tiE5xJSJQhKdeOW4cPiSy+RTrnRKjjjrVQ0hexug=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:26:54 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-iG1tiE5xJSJQhKdeOW4cPiSy+RTrnRKjjjrVQ0hexug="
+          "Value": "sha256-5I1zh9beyXxKkwurKUaynpBgdJDtl9oekfOR/x8EQPE="
         }
       ]
     },
     {
       "Route": "assets/js/photoswipe-ui-default.min.js",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\js\\photoswipe-ui-default.min.js",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\js\\photoswipe-ui-default.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6070,7 +6070,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "9878"
+          "Value": "9881"
         },
         {
           "Name": "Content-Type",
@@ -6078,11 +6078,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"XvSk6Opq7XZ8oUcx213MtikXtbl5bbe4Q9tr4+NJBCg=\""
+          "Value": "\"QFncEec+AtTLLdeYe0V4E9aFV3teXqTDg8wY4L9WnQI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:26:54 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6092,13 +6092,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-XvSk6Opq7XZ8oUcx213MtikXtbl5bbe4Q9tr4+NJBCg="
+          "Value": "sha256-QFncEec+AtTLLdeYe0V4E9aFV3teXqTDg8wY4L9WnQI="
         }
       ]
     },
     {
-      "Route": "assets/js/photoswipe-ui-default.min.q9kb59xjh7.js",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\js\\photoswipe-ui-default.min.js",
+      "Route": "assets/js/photoswipe-ui-default.min.k3c2hvn0m9.js",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\js\\photoswipe-ui-default.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6107,7 +6107,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "9878"
+          "Value": "9881"
         },
         {
           "Name": "Content-Type",
@@ -6115,11 +6115,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"XvSk6Opq7XZ8oUcx213MtikXtbl5bbe4Q9tr4+NJBCg=\""
+          "Value": "\"QFncEec+AtTLLdeYe0V4E9aFV3teXqTDg8wY4L9WnQI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:26:54 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6129,7 +6129,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "q9kb59xjh7"
+          "Value": "k3c2hvn0m9"
         },
         {
           "Name": "label",
@@ -6137,13 +6137,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-XvSk6Opq7XZ8oUcx213MtikXtbl5bbe4Q9tr4+NJBCg="
+          "Value": "sha256-QFncEec+AtTLLdeYe0V4E9aFV3teXqTDg8wY4L9WnQI="
         }
       ]
     },
     {
-      "Route": "assets/js/plyr.min.2no0noriri.js",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\js\\plyr.min.js",
+      "Route": "assets/js/plyr.min.c1mwophbo8.js",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\js\\plyr.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6152,7 +6152,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "115218"
+          "Value": "115220"
         },
         {
           "Name": "Content-Type",
@@ -6160,11 +6160,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"voP3sbDhk+YDZKsGO8dpMGk9qzne1cf3f1CRgjwRnrk=\""
+          "Value": "\"kCON54+ahA8T8ZyzH0/jlvhWQ497+1fOr0JlCeuYh8A=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:26:56 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6174,7 +6174,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "2no0noriri"
+          "Value": "c1mwophbo8"
         },
         {
           "Name": "label",
@@ -6182,13 +6182,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-voP3sbDhk+YDZKsGO8dpMGk9qzne1cf3f1CRgjwRnrk="
+          "Value": "sha256-kCON54+ahA8T8ZyzH0/jlvhWQ497+1fOr0JlCeuYh8A="
         }
       ]
     },
     {
       "Route": "assets/js/plyr.min.js",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\js\\plyr.min.js",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\js\\plyr.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6197,7 +6197,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "115218"
+          "Value": "115220"
         },
         {
           "Name": "Content-Type",
@@ -6205,11 +6205,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"voP3sbDhk+YDZKsGO8dpMGk9qzne1cf3f1CRgjwRnrk=\""
+          "Value": "\"kCON54+ahA8T8ZyzH0/jlvhWQ497+1fOr0JlCeuYh8A=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:26:56 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6219,13 +6219,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-voP3sbDhk+YDZKsGO8dpMGk9qzne1cf3f1CRgjwRnrk="
+          "Value": "sha256-kCON54+ahA8T8ZyzH0/jlvhWQ497+1fOr0JlCeuYh8A="
         }
       ]
     },
     {
-      "Route": "assets/js/slimselect.min.i8na1zelki.js",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\js\\slimselect.min.js",
+      "Route": "assets/js/slimselect.min.17qjfksaht.js",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\js\\slimselect.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6234,7 +6234,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "35284"
+          "Value": "35285"
         },
         {
           "Name": "Content-Type",
@@ -6242,11 +6242,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"3j6wJbZ1W/vt7P+LLH21gUr9CcIZ5cS8U4YOHe7UeSs=\""
+          "Value": "\"o3UDbPKdXA3C1PDNLKdIbtayASrOS0+dS6t3KC1Rfpk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:26:56 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6256,7 +6256,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "i8na1zelki"
+          "Value": "17qjfksaht"
         },
         {
           "Name": "label",
@@ -6264,13 +6264,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-3j6wJbZ1W/vt7P+LLH21gUr9CcIZ5cS8U4YOHe7UeSs="
+          "Value": "sha256-o3UDbPKdXA3C1PDNLKdIbtayASrOS0+dS6t3KC1Rfpk="
         }
       ]
     },
     {
       "Route": "assets/js/slimselect.min.js",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\js\\slimselect.min.js",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\js\\slimselect.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6279,7 +6279,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "35284"
+          "Value": "35285"
         },
         {
           "Name": "Content-Type",
@@ -6287,11 +6287,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"3j6wJbZ1W/vt7P+LLH21gUr9CcIZ5cS8U4YOHe7UeSs=\""
+          "Value": "\"o3UDbPKdXA3C1PDNLKdIbtayASrOS0+dS6t3KC1Rfpk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:26:56 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6301,13 +6301,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-3j6wJbZ1W/vt7P+LLH21gUr9CcIZ5cS8U4YOHe7UeSs="
+          "Value": "sha256-o3UDbPKdXA3C1PDNLKdIbtayASrOS0+dS6t3KC1Rfpk="
         }
       ]
     },
     {
-      "Route": "assets/js/smooth-scrollbar.5h5430riiq.js",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\js\\smooth-scrollbar.js",
+      "Route": "assets/js/smooth-scrollbar.js",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\js\\smooth-scrollbar.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6316,7 +6316,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "52534"
+          "Value": "52558"
         },
         {
           "Name": "Content-Type",
@@ -6324,11 +6324,48 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"uQfBsa53iBomlakuLVqFKRpj/gEfvvKUL/Hdf4NLDeU=\""
+          "Value": "\"HLBOpc96JdEAQNSJDtG+raaWaelU6GnKqUs8itd1Bxs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:26:56 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-HLBOpc96JdEAQNSJDtG+raaWaelU6GnKqUs8itd1Bxs="
+        }
+      ]
+    },
+    {
+      "Route": "assets/js/smooth-scrollbar.ky0lsz751z.js",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\js\\smooth-scrollbar.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "52558"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HLBOpc96JdEAQNSJDtG+raaWaelU6GnKqUs8itd1Bxs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6338,7 +6375,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "5h5430riiq"
+          "Value": "ky0lsz751z"
         },
         {
           "Name": "label",
@@ -6346,50 +6383,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-uQfBsa53iBomlakuLVqFKRpj/gEfvvKUL/Hdf4NLDeU="
-        }
-      ]
-    },
-    {
-      "Route": "assets/js/smooth-scrollbar.js",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\js\\smooth-scrollbar.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "52534"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"uQfBsa53iBomlakuLVqFKRpj/gEfvvKUL/Hdf4NLDeU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:26:56 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-uQfBsa53iBomlakuLVqFKRpj/gEfvvKUL/Hdf4NLDeU="
+          "Value": "sha256-HLBOpc96JdEAQNSJDtG+raaWaelU6GnKqUs8itd1Bxs="
         }
       ]
     },
     {
       "Route": "assets/js/splide.min.js",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\js\\splide.min.js",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\js\\splide.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6398,7 +6398,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "27577"
+          "Value": "27585"
         },
         {
           "Name": "Content-Type",
@@ -6406,11 +6406,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"b/fLMBwSqO9vy/phDPv6OufPpR+VfUL+OsTEkJMPg+Q=\""
+          "Value": "\"a2z8/K+AfxPngEKTEJz9Z1G44EM7vTHHWnPGjtaSPrM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:26:56 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6420,13 +6420,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-b/fLMBwSqO9vy/phDPv6OufPpR+VfUL+OsTEkJMPg+Q="
+          "Value": "sha256-a2z8/K+AfxPngEKTEJz9Z1G44EM7vTHHWnPGjtaSPrM="
         }
       ]
     },
     {
-      "Route": "assets/js/splide.min.rp5un6rmdj.js",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\js\\splide.min.js",
+      "Route": "assets/js/splide.min.xt29xjjsog.js",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\js\\splide.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6435,7 +6435,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "27577"
+          "Value": "27585"
         },
         {
           "Name": "Content-Type",
@@ -6443,11 +6443,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"b/fLMBwSqO9vy/phDPv6OufPpR+VfUL+OsTEkJMPg+Q=\""
+          "Value": "\"a2z8/K+AfxPngEKTEJz9Z1G44EM7vTHHWnPGjtaSPrM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:26:56 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6457,7 +6457,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "rp5un6rmdj"
+          "Value": "xt29xjjsog"
         },
         {
           "Name": "label",
@@ -6465,13 +6465,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-b/fLMBwSqO9vy/phDPv6OufPpR+VfUL+OsTEkJMPg+Q="
+          "Value": "sha256-a2z8/K+AfxPngEKTEJz9Z1G44EM7vTHHWnPGjtaSPrM="
         }
       ]
     },
     {
       "Route": "assets/webfont/fonts/tabler-icons539a.0353vuqoah.woff2",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\webfont\\fonts\\tabler-icons539a.woff2",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\webfont\\fonts\\tabler-icons539a.woff2",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6492,7 +6492,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:27:10 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6516,7 +6516,7 @@
     },
     {
       "Route": "assets/webfont/fonts/tabler-icons539a.4brerv2kwh.ttf",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\webfont\\fonts\\tabler-icons539a.ttf",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\webfont\\fonts\\tabler-icons539a.ttf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6537,7 +6537,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:27:08 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6561,7 +6561,7 @@
     },
     {
       "Route": "assets/webfont/fonts/tabler-icons539a.eot",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\webfont\\fonts\\tabler-icons539a.eot",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\webfont\\fonts\\tabler-icons539a.eot",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6582,7 +6582,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:27:08 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6598,7 +6598,7 @@
     },
     {
       "Route": "assets/webfont/fonts/tabler-icons539a.g6k3ekiuf3.eot",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\webfont\\fonts\\tabler-icons539a.eot",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\webfont\\fonts\\tabler-icons539a.eot",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6619,7 +6619,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:27:08 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6643,7 +6643,7 @@
     },
     {
       "Route": "assets/webfont/fonts/tabler-icons539a.ttf",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\webfont\\fonts\\tabler-icons539a.ttf",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\webfont\\fonts\\tabler-icons539a.ttf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6664,7 +6664,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:27:08 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6680,7 +6680,7 @@
     },
     {
       "Route": "assets/webfont/fonts/tabler-icons539a.woff2",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\webfont\\fonts\\tabler-icons539a.woff2",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\webfont\\fonts\\tabler-icons539a.woff2",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6701,7 +6701,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:27:10 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6717,7 +6717,7 @@
     },
     {
       "Route": "assets/webfont/fonts/tabler-iconsd41d.eot",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\webfont\\fonts\\tabler-iconsd41d.eot",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\webfont\\fonts\\tabler-iconsd41d.eot",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6738,7 +6738,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:27:08 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6754,7 +6754,7 @@
     },
     {
       "Route": "assets/webfont/fonts/tabler-iconsd41d.g6k3ekiuf3.eot",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\webfont\\fonts\\tabler-iconsd41d.eot",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\webfont\\fonts\\tabler-iconsd41d.eot",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6775,7 +6775,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:27:08 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6799,7 +6799,7 @@
     },
     {
       "Route": "assets/webfont/fonts/tabler-iconsd41d.rdf8b3dire.woff",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\webfont\\fonts\\tabler-iconsd41d.woff",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\webfont\\fonts\\tabler-iconsd41d.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6820,7 +6820,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:27:10 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6844,7 +6844,7 @@
     },
     {
       "Route": "assets/webfont/fonts/tabler-iconsd41d.woff",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\webfont\\fonts\\tabler-iconsd41d.woff",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\webfont\\fonts\\tabler-iconsd41d.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6865,7 +6865,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:27:10 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6880,8 +6880,8 @@
       ]
     },
     {
-      "Route": "assets/webfont/tabler-icons.min.css",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\webfont\\tabler-icons.min.css",
+      "Route": "assets/webfont/tabler-icons.min.4lmd497kqs.css",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\webfont\\tabler-icons.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6890,7 +6890,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "202088"
+          "Value": "202092"
         },
         {
           "Name": "Content-Type",
@@ -6898,48 +6898,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"fRKASe1+lRDloIFBIOcODfYyRanEITBwbLWkc203TBQ=\""
+          "Value": "\"mGug8hiVMvtIeI3eJAVZHTQZJ6tP5MqmQhj0SL6Np6w=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:26:56 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-fRKASe1+lRDloIFBIOcODfYyRanEITBwbLWkc203TBQ="
-        }
-      ]
-    },
-    {
-      "Route": "assets/webfont/tabler-icons.min.v1ofy9qcbo.css",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\wwwroot\\assets\\webfont\\tabler-icons.min.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "202088"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"fRKASe1+lRDloIFBIOcODfYyRanEITBwbLWkc203TBQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 28 May 2024 21:26:56 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6949,7 +6912,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "v1ofy9qcbo"
+          "Value": "4lmd497kqs"
         },
         {
           "Name": "label",
@@ -6957,13 +6920,50 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-fRKASe1+lRDloIFBIOcODfYyRanEITBwbLWkc203TBQ="
+          "Value": "sha256-mGug8hiVMvtIeI3eJAVZHTQZJ6tP5MqmQhj0SL6Np6w="
+        }
+      ]
+    },
+    {
+      "Route": "assets/webfont/tabler-icons.min.css",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\wwwroot\\assets\\webfont\\tabler-icons.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "202092"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mGug8hiVMvtIeI3eJAVZHTQZJ6tP5MqmQhj0SL6Np6w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mGug8hiVMvtIeI3eJAVZHTQZJ6tP5MqmQhj0SL6Np6w="
         }
       ]
     },
     {
       "Route": "MovieFinalProject.1s8vud0c41.bundle.scp.css",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MovieFinalProject.bundle.scp.css",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MovieFinalProject.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6984,7 +6984,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 16 Aug 2025 11:01:36 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7008,7 +7008,7 @@
     },
     {
       "Route": "MovieFinalProject.1s8vud0c41.styles.css",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\obj\\Debug\\net8.0\\scopedcss\\bundle\\MovieFinalProject.styles.css",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\obj\\Debug\\net8.0\\scopedcss\\bundle\\MovieFinalProject.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7029,7 +7029,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 16 Aug 2025 11:01:36 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7053,7 +7053,7 @@
     },
     {
       "Route": "MovieFinalProject.bundle.scp.css",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MovieFinalProject.bundle.scp.css",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MovieFinalProject.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7074,7 +7074,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 16 Aug 2025 11:01:36 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7090,7 +7090,7 @@
     },
     {
       "Route": "MovieFinalProject.styles.css",
-      "AssetFile": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\obj\\Debug\\net8.0\\scopedcss\\bundle\\MovieFinalProject.styles.css",
+      "AssetFile": "D:\\Projects\\FinalProject\\MovieFinalProject\\obj\\Debug\\net8.0\\scopedcss\\bundle\\MovieFinalProject.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7111,7 +7111,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 16 Aug 2025 11:01:36 GMT"
+          "Value": "Sun, 17 Aug 2025 12:43:00 GMT"
         },
         {
           "Name": "Cache-Control",

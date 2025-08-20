@@ -37,6 +37,21 @@ namespace MovieFinalProject.DataAccessLayer.Migrations
                     b.ToTable("ActorMovie");
                 });
 
+            modelBuilder.Entity("CountryMovie", b =>
+                {
+                    b.Property<int>("CountryId")
+                        .HasColumnType("int");
+
+                    b.Property<int>("MoviesId")
+                        .HasColumnType("int");
+
+                    b.HasKey("CountryId", "MoviesId");
+
+                    b.HasIndex("MoviesId");
+
+                    b.ToTable("CountryMovie");
+                });
+
             modelBuilder.Entity("GenreMovie", b =>
                 {
                     b.Property<int>("GenresId")
@@ -193,12 +208,25 @@ namespace MovieFinalProject.DataAccessLayer.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
+                    b.Property<string>("Cast")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
                     b.Property<int>("CountryId")
                         .HasColumnType("int");
 
                     b.Property<string>("Description")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Director")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Discriminator")
+                        .IsRequired()
+                        .HasMaxLength(21)
+                        .HasColumnType("nvarchar(21)");
 
                     b.Property<int>("GenreId")
                         .HasColumnType("int");
@@ -226,9 +254,33 @@ namespace MovieFinalProject.DataAccessLayer.Migrations
 
                     b.HasKey("Id");
 
-                    b.HasIndex("CountryId");
-
                     b.ToTable("Movies");
+
+                    b.HasDiscriminator().HasValue("Movie");
+
+                    b.UseTphMappingStrategy();
+                });
+
+            modelBuilder.Entity("MovieFinalProject.DataAccessLayer.Entities.Slider", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<int?>("MovieId")
+                        .HasColumnType("int");
+
+                    b.Property<string>("imageUrl")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("MovieId");
+
+                    b.ToTable("Sliders");
                 });
 
             modelBuilder.Entity("MovieFinalProject.DataContext.Entities.Actor", b =>
@@ -470,6 +522,13 @@ namespace MovieFinalProject.DataAccessLayer.Migrations
                     b.ToTable("Reviews");
                 });
 
+            modelBuilder.Entity("MovieFinalProject.DataAccessLayer.Entities.ExpectedMovies", b =>
+                {
+                    b.HasBaseType("Movie");
+
+                    b.HasDiscriminator().HasValue("ExpectedMovies");
+                });
+
             modelBuilder.Entity("ActorMovie", b =>
                 {
                     b.HasOne("MovieFinalProject.DataContext.Entities.Actor", null)
@@ -481,6 +540,21 @@ namespace MovieFinalProject.DataAccessLayer.Migrations
                     b.HasOne("Movie", null)
                         .WithMany()
                         .HasForeignKey("MovieId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+                });
+
+            modelBuilder.Entity("CountryMovie", b =>
+                {
+                    b.HasOne("MovieFinalProject.DataContext.Entities.Country", null)
+                        .WithMany()
+                        .HasForeignKey("CountryId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("Movie", null)
+                        .WithMany()
+                        .HasForeignKey("MoviesId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
                 });
@@ -551,15 +625,11 @@ namespace MovieFinalProject.DataAccessLayer.Migrations
                         .IsRequired();
                 });
 
-            modelBuilder.Entity("Movie", b =>
+            modelBuilder.Entity("MovieFinalProject.DataAccessLayer.Entities.Slider", b =>
                 {
-                    b.HasOne("MovieFinalProject.DataContext.Entities.Country", "Country")
-                        .WithMany("Movies")
-                        .HasForeignKey("CountryId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.Navigation("Country");
+                    b.HasOne("Movie", null)
+                        .WithMany("sliders")
+                        .HasForeignKey("MovieId");
                 });
 
             modelBuilder.Entity("MovieFinalProject.DataContext.Entities.Genre", b =>
@@ -600,16 +670,13 @@ namespace MovieFinalProject.DataAccessLayer.Migrations
             modelBuilder.Entity("Movie", b =>
                 {
                     b.Navigation("Reviews");
+
+                    b.Navigation("sliders");
                 });
 
             modelBuilder.Entity("MovieFinalProject.DataContext.Entities.Actor", b =>
                 {
                     b.Navigation("Genres");
-                });
-
-            modelBuilder.Entity("MovieFinalProject.DataContext.Entities.Country", b =>
-                {
-                    b.Navigation("Movies");
                 });
 #pragma warning restore 612, 618
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XFX0x5M+KB8=",
+  "dgSpecHash": "vaf4oQoOoYs=",
   "success": true,
-  "projectFilePath": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\BusinessLayer\\MovieFinalProject.BusinessLogicLayer.csproj",
+  "projectFilePath": "D:\\Projects\\FinalProject\\BusinessLayer\\MovieFinalProject.BusinessLogicLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Victus\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\Victus\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",

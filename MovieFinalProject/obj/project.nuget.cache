@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HfMY9fgR1ls=",
+  "dgSpecHash": "LAG3xZhhWow=",
   "success": true,
-  "projectFilePath": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\MovieFinalProject.csproj",
+  "projectFilePath": "D:\\Projects\\FinalProject\\MovieFinalProject\\MovieFinalProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Victus\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Victus\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

@@ -1,4 +1,4 @@
-﻿using Academy.BusinessLogicLayer.Services;
+﻿using MovieFinalProject.BusinessLogicLayer;
 using Microsoft.AspNetCore.SignalR;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
@@ -6,6 +6,7 @@ using Microsoft.Extensions.DependencyInjection;
 using MovieFinalProject.DataAccessLayer;
 using MovieFinalProjectBusinessLogicLayer.Services;
 using MovieFinalProjectBusinessLogicLayer.Services.Contracts;
+using Academy.BusinessLogicLayer.Services;
 
 namespace MovieFinalProject.BusinessLogicLayer
 {

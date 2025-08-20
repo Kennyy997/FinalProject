@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Code Academy\\BackEnd\\MovieFinalProject\\DataAccessLayer\\MovieFinalProject.DataAccessLayer.csproj": {}
+    "D:\\Projects\\FinalProject\\DataAccessLayer\\MovieFinalProject.DataAccessLayer.csproj": {}
   },
   "projects": {
-    "D:\\Code Academy\\BackEnd\\MovieFinalProject\\DataAccessLayer\\MovieFinalProject.DataAccessLayer.csproj": {
+    "D:\\Projects\\FinalProject\\DataAccessLayer\\MovieFinalProject.DataAccessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\DataAccessLayer\\MovieFinalProject.DataAccessLayer.csproj",
+        "projectUniqueName": "D:\\Projects\\FinalProject\\DataAccessLayer\\MovieFinalProject.DataAccessLayer.csproj",
         "projectName": "MovieFinalProject.DataAccessLayer",
-        "projectPath": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\DataAccessLayer\\MovieFinalProject.DataAccessLayer.csproj",
+        "projectPath": "D:\\Projects\\FinalProject\\DataAccessLayer\\MovieFinalProject.DataAccessLayer.csproj",
         "packagesPath": "C:\\Users\\Victus\\.nuget\\packages\\",
-        "outputPath": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\DataAccessLayer\\obj\\",
+        "outputPath": "D:\\Projects\\FinalProject\\DataAccessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

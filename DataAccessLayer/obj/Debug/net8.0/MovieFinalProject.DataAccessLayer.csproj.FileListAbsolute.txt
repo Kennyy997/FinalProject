@@ -13,3 +13,18 @@ D:\Code Academy\BackEnd\MovieFinalProject\DataAccessLayer\obj\Debug\net8.0\Movie
 D:\Code Academy\BackEnd\MovieFinalProject\DataAccessLayer\obj\Debug\net8.0\ref\MovieFinalProject.DataAccessLayer.dll
 D:\Code Academy\BackEnd\MovieFinalProject\DataAccessLayer\bin\Debug\net8.0\MovieFinalProject.DataAccessLayer.runtimeconfig.json
 D:\Code Academy\BackEnd\MovieFinalProject\DataAccessLayer\obj\Debug\net8.0\MovieFinalProject.DataAccessLayer.genruntimeconfig.cache
+D:\Projects\FinalProject\DataAccessLayer\bin\Debug\net8.0\MovieFinalProject.DataAccessLayer.deps.json
+D:\Projects\FinalProject\DataAccessLayer\bin\Debug\net8.0\MovieFinalProject.DataAccessLayer.runtimeconfig.json
+D:\Projects\FinalProject\DataAccessLayer\bin\Debug\net8.0\MovieFinalProject.DataAccessLayer.dll
+D:\Projects\FinalProject\DataAccessLayer\bin\Debug\net8.0\MovieFinalProject.DataAccessLayer.pdb
+D:\Projects\FinalProject\DataAccessLayer\obj\Debug\net8.0\MovieFinalProject.DataAccessLayer.csproj.AssemblyReference.cache
+D:\Projects\FinalProject\DataAccessLayer\obj\Debug\net8.0\MovieFinalProject.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\FinalProject\DataAccessLayer\obj\Debug\net8.0\MovieFinalProject.DataAccessLayer.AssemblyInfoInputs.cache
+D:\Projects\FinalProject\DataAccessLayer\obj\Debug\net8.0\MovieFinalProject.DataAccessLayer.AssemblyInfo.cs
+D:\Projects\FinalProject\DataAccessLayer\obj\Debug\net8.0\MovieFinalProject.DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Projects\FinalProject\DataAccessLayer\obj\Debug\net8.0\MovieFinalProject.DataAccessLayer.sourcelink.json
+D:\Projects\FinalProject\DataAccessLayer\obj\Debug\net8.0\MovieFinalProject.DataAccessLayer.dll
+D:\Projects\FinalProject\DataAccessLayer\obj\Debug\net8.0\refint\MovieFinalProject.DataAccessLayer.dll
+D:\Projects\FinalProject\DataAccessLayer\obj\Debug\net8.0\MovieFinalProject.DataAccessLayer.pdb
+D:\Projects\FinalProject\DataAccessLayer\obj\Debug\net8.0\MovieFinalProject.DataAccessLayer.genruntimeconfig.cache
+D:\Projects\FinalProject\DataAccessLayer\obj\Debug\net8.0\ref\MovieFinalProject.DataAccessLayer.dll

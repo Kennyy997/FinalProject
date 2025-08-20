@@ -8051,8 +8051,8 @@
     },
     "Mailing/1.0.0": {
       "type": "project",
-      "path": "../../../Hazir projeler/Mailing/Mailing.csproj",
-      "msbuildProject": "../../../Hazir projeler/Mailing/Mailing.csproj"
+      "path": "../../../Code Academy/Hazir projeler/Mailing/Mailing.csproj",
+      "msbuildProject": "../../../Code Academy/Hazir projeler/Mailing/Mailing.csproj"
     },
     "MovieFinalProject/1.0.0": {
       "type": "project",
@@ -8079,11 +8079,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\BusinessLayer\\MovieFinalProject.BusinessLogicLayer.csproj",
+      "projectUniqueName": "D:\\Projects\\FinalProject\\BusinessLayer\\MovieFinalProject.BusinessLogicLayer.csproj",
       "projectName": "MovieFinalProject.BusinessLogicLayer",
-      "projectPath": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\BusinessLayer\\MovieFinalProject.BusinessLogicLayer.csproj",
+      "projectPath": "D:\\Projects\\FinalProject\\BusinessLayer\\MovieFinalProject.BusinessLogicLayer.csproj",
       "packagesPath": "C:\\Users\\Victus\\.nuget\\packages\\",
-      "outputPath": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\BusinessLayer\\obj\\",
+      "outputPath": "D:\\Projects\\FinalProject\\BusinessLayer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -8104,11 +8104,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Code Academy\\BackEnd\\MovieFinalProject\\DataAccessLayer\\MovieFinalProject.DataAccessLayer.csproj": {
-              "projectPath": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\DataAccessLayer\\MovieFinalProject.DataAccessLayer.csproj"
+            "D:\\Projects\\FinalProject\\DataAccessLayer\\MovieFinalProject.DataAccessLayer.csproj": {
+              "projectPath": "D:\\Projects\\FinalProject\\DataAccessLayer\\MovieFinalProject.DataAccessLayer.csproj"
             },
-            "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\MovieFinalProject.csproj": {
-              "projectPath": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\MovieFinalProject.csproj"
+            "D:\\Projects\\FinalProject\\MovieFinalProject\\MovieFinalProject.csproj": {
+              "projectPath": "D:\\Projects\\FinalProject\\MovieFinalProject\\MovieFinalProject.csproj"
             }
           }
         }

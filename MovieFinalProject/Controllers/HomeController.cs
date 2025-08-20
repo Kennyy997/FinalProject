@@ -2,6 +2,7 @@ using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using MovieFinalProject.DataAccessLayer;
+using MovieFinalProject.ViewModel;
 
 namespace MovieFinalProject.Controllers;
 
@@ -14,10 +15,18 @@ public class HomeController : Controller
     }
     public IActionResult Index()
     {
-        var model = _context.Movies
-    .Include(m => m.Genres)
-    .ToList();
-        return View(model);
+        var movies = _context.Movies.ToList();
+
+        var viewModel = new HomeViewModel
+        {
+            Movies = movies,
+            Genres = _context.Genres.ToList(),
+            Ratings = _context.Ratings.ToList(),
+            Actors = _context.Actors.ToList(),
+            Qualities = _context.Qualitys.ToList(),
+        };
+
+        return View(viewModel);
     }
     public IActionResult Privacy()
     {

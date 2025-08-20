@@ -1,4 +1,5 @@
 ﻿using MovieFinalProject.Controllers;
+using MovieFinalProject.DataAccessLayer.Entities;
 using MovieFinalProject.DataContext.Entities;
 
 namespace MovieFinalProject.ViewModel
@@ -7,14 +8,13 @@ namespace MovieFinalProject.ViewModel
     {
     
         public List<Movie> Movies { get; set; } = new List<Movie>();
-        public List<Movie> ExpectedMovies { get; set; } = new List<Movie>();
         public List<Genre> Genres { get; set; } = new List<Genre>();
         public List<Rating> Ratings { get; set; } = new List<Rating>();
         public List<Actor> Actors { get; set; } = new List<Actor>();
+        public List<Country> Countries { get; set; } = new List<Country>();
+        public List<Review> Reviews { get; set; } = new List<Review>();
+        public List<Slider> Sliders { get; set; } = new List<Slider>();
+        public List<ExpectedMovies> ExpectedMovies { get; set; } = new List<ExpectedMovies>();
         public List<Quality> Qualities { get; set; } = new List<Quality>();
-        public int TotalMoviesCount { get; set; }
-        public int CurrentPage { get; set; } = 1;
-        public int PageSize { get; set; } = 18;
-
      }
 }

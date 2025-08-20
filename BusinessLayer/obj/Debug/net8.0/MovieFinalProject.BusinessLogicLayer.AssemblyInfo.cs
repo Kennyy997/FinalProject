@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MovieFinalProject.BusinessLogicLayer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e2ff11bc1bd5e3b7e25258025085cd82311e66f5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+110409ec01257b9a4f3b8acbc194e5ed93e66caf")]
 [assembly: System.Reflection.AssemblyProductAttribute("MovieFinalProject.BusinessLogicLayer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MovieFinalProject.BusinessLogicLayer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

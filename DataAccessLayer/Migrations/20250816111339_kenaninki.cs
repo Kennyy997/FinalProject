@@ -475,6 +475,7 @@ namespace MovieFinalProject.DataAccessLayer.Migrations
 
             migrationBuilder.DropTable(
                 name: "Countries");
+            
         }
     }
 }

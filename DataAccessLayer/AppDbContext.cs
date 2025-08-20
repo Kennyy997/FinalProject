@@ -1,8 +1,7 @@
-﻿using System.Data;
-using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
+using MovieFinalProject.DataAccessLayer.Entities;
 using MovieFinalProject.DataContext.Entities;
-
 namespace MovieFinalProject.DataAccessLayer
 {
     public class AppDbContext : IdentityDbContext<AppUser>
@@ -18,7 +17,8 @@ namespace MovieFinalProject.DataAccessLayer
         public DbSet<AppUser> AppUsers { get; set; }
         public DbSet<Quality> Qualitys { get; set; }
         public DbSet<Rating> Ratings { get; set; }
-       
+        public DbSet<Slider> Sliders { get; set; }
+        public DbSet<ExpectedMovies> ExpectedMovies { get; set; }
 
 
 

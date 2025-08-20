@@ -7983,8 +7983,8 @@
     },
     "Mailing/1.0.0": {
       "type": "project",
-      "path": "../../../Hazir projeler/Mailing/Mailing.csproj",
-      "msbuildProject": "../../../Hazir projeler/Mailing/Mailing.csproj"
+      "path": "../../../Code Academy/Hazir projeler/Mailing/Mailing.csproj",
+      "msbuildProject": "../../../Code Academy/Hazir projeler/Mailing/Mailing.csproj"
     },
     "MovieFinalProject.DataAccessLayer/1.0.0": {
       "type": "project",
@@ -8010,11 +8010,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\MovieFinalProject.csproj",
+      "projectUniqueName": "D:\\Projects\\FinalProject\\MovieFinalProject\\MovieFinalProject.csproj",
       "projectName": "MovieFinalProject",
-      "projectPath": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\MovieFinalProject.csproj",
+      "projectPath": "D:\\Projects\\FinalProject\\MovieFinalProject\\MovieFinalProject.csproj",
       "packagesPath": "C:\\Users\\Victus\\.nuget\\packages\\",
-      "outputPath": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\MovieFinalProject\\obj\\",
+      "outputPath": "D:\\Projects\\FinalProject\\MovieFinalProject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -8035,11 +8035,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Code Academy\\BackEnd\\MovieFinalProject\\DataAccessLayer\\MovieFinalProject.DataAccessLayer.csproj": {
-              "projectPath": "D:\\Code Academy\\BackEnd\\MovieFinalProject\\DataAccessLayer\\MovieFinalProject.DataAccessLayer.csproj"
-            },
             "D:\\Code Academy\\Hazir projeler\\Mailing\\Mailing.csproj": {
               "projectPath": "D:\\Code Academy\\Hazir projeler\\Mailing\\Mailing.csproj"
+            },
+            "D:\\Projects\\FinalProject\\DataAccessLayer\\MovieFinalProject.DataAccessLayer.csproj": {
+              "projectPath": "D:\\Projects\\FinalProject\\DataAccessLayer\\MovieFinalProject.DataAccessLayer.csproj"
             }
           }
         }

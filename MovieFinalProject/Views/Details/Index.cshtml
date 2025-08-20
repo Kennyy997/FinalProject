@@ -1,4 +1,4 @@
-﻿v]
+﻿@model HomeViewModel
 <!DOCTYPE html>
 <html lang="en">
 
@@ -44,36 +44,39 @@
 				<div class="col-12 col-xl-6">
 					<div class="item item--details">
 						<div class="row">
-							<!-- card cover -->
-							<div class="col-12 col-sm-5 col-md-5 col-lg-4 col-xl-6 col-xxl-5">
-								<div class="item__cover">
-									<img src="~/assets/img/covers/cover1.jpg" alt="">
-									<span class="item__rate item__rate--green">8.4</span>
-									<button class="item__favorite item__favorite--static" type="button"><i class="ti ti-bookmark"></i></button>
-								</div>
-							</div>
-							<!-- end card cover -->
-							<!-- card content -->
-							<div class="col-12 col-md-7 col-lg-8 col-xl-6 col-xxl-7">
-								<div class="item__content">
-									<ul class="item__meta">
-										<li><span>Director:</span> <a asp-controller="actor"asp-action="index">Vince Gilligan</a></li>
-										<li><span>Cast:</span> <a asp-controller="actor" asp-action="index">Brian Cranston</a> <a href="actor.html">Jesse Plemons</a> <a href="actor.html">Matt Jones</a> <a href="actor.html">Jonathan Banks</a> <a href="actor.html">Charles Baker</a> <a href="actor.html">Tess Harper</a></li>
-										<li>
-											<span>Genre:</span> <a asp-controller="Catalog"asp-action="index">Action</a>
-											<a asp-controller="Catalog" asp-action="index>Triler</a>
-										</li>
-										<li><span>Premiere::</span> 2019</li>
-										<li><span>Running time:</span> 128 min</li>
-										<li><span>Country:</span> <a href="catalog.html">USA</a></li>
-									</ul>
-
-									<div class="item__description">
-										<p>When a renowned archaeologist goes missing, his daughter sets out on a perilous journey to the heart of the Amazon rainforest to find him. Along the way, she discovers a hidden city and a dangerous conspiracy that threatens the very balance of power in the world. With the help of a charming rogue, she must navigate treacherous terrain and outwit powerful enemies to save her father and uncover the secrets of the lost city. A down-on-his-luck boxer struggles to make ends meet while raising his young son. When an old friend offers him a chance to make some quick cash by fighting in an illegal underground boxing tournament, he sees it as his last shot at redemption. But as the stakes get higher and the fights get more brutal, he must confront his own demons and find the strength to win not just for himself, but for his son.</p>
-										<p>A brilliant scientist discovers a way to harness the power of the ocean's currents to create a new, renewable energy source. But when her groundbreaking technology falls into the wrong hands, she must race against time to stop it from being used for evil. Along the way, she must navigate complex political alliances and confront her own past to save the world from disaster.</p>
+							@foreach(var item in Model.Movies)
+							{
+								<div class="col-12 col-sm-5 col-md-5 col-lg-4 col-xl-6 col-xxl-5">
+									<div class="item__cover">
+										<img src="~/assets/img/covers/@item.PosterUrl" alt="">
+										<span class="item__rate item__rate--green">@item.Rating</span>
+										<button class="item__favorite item__favorite--static" type="button"><i class="ti ti-bookmark"></i></button>
 									</div>
 								</div>
-							</div>
+							}
+							<!-- end card cover -->
+							<!-- card content -->
+							@foreach(var item in Model.Movies)
+							{
+								<div class="col-12 col-md-7 col-lg-8 col-xl-6 col-xxl-7">
+									<div class="item__content">
+										<ul class="item__meta">
+											<li><span>Director:</span> <a asp-controller="actor" asp-action="index">@item.Director</a></li>
+											<li><span>Cast:</span> <a asp-controller="actor" asp-action="index">@foreach (var cast in Model.Movies) { @cast.Cast}</a></li>
+										    <li><span>Genre:</span> <a asp-controller="Catalog" asp-action="index">@item.Genres</a></li>
+										   <a asp-controller="Catalog" asp-action="index">Triler</a>
+											<li><span>Premiere::</span>@item.ReleaseDate</li>
+											<li><span>Running time:</span> @item.MovieTime min</li>
+											<li><span>Country:</span> <a asp-controller="Catalog" asp-action="index">@item.Country</a></li>
+										</ul>
+
+										<div class="item__description">
+											<p>@item.Description</p>
+										</div>
+									</div>
+								</div>
+							}
+							
 							<!-- end card content -->
 						</div>
 					</div>
