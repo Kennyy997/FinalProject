@@ -1,10 +1,12 @@
-﻿using Microsoft.AspNetCore.Identity;
-using Microsoft.EntityFrameworkCore;
-using MovieFinalProject.DataContext.Entities;
-using MovieFinalProject.DataContext;
-using Mailing;
+﻿using Mailing;
 using Mailing.MailKitImplementations;
+using Microsoft.AspNetCore.Authentication.Cookies;
+using Microsoft.AspNetCore.Authentication.Google;
+using Microsoft.AspNetCore.Identity;
+using Microsoft.EntityFrameworkCore;
 using MovieFinalProject.DataAccessLayer;
+using MovieFinalProject.DataContext;
+using MovieFinalProject.DataContext.Entities;
 
 namespace MovieFinalProject
 {
@@ -40,11 +42,21 @@ namespace MovieFinalProject
             {
                 options.UseSqlServer(builder.Configuration.GetConnectionString("Default"));
             });
+            builder.Services.AddAuthentication(options =>
+            {
+                options.DefaultScheme = IdentityConstants.ApplicationScheme;
+                options.DefaultSignInScheme = IdentityConstants.ExternalScheme;
+            });
+            builder.Services.AddAuthentication(options =>
+            {
+                options.DefaultScheme = CookieAuthenticationDefaults.AuthenticationScheme;
+                options.DefaultChallengeScheme = GoogleDefaults.AuthenticationScheme;
+            });
             builder.Services.AddScoped<DataInitializer>();
 
             builder.Services.AddTransient<IMailService, MailKitMailService>();
             builder.Services.RegisterDataAccessLayerServices(builder.Configuration);
-            builder.Services.
+
             //FilePathConstants.CategoryPath = Path.Combine(builder.Environment.WebRootPath, "images", "category");
             //FilePathConstants.MenuIteamPath = Path.Combine(builder.Environment.WebRootPath, "images", "menuItem");
 
@@ -58,7 +70,7 @@ namespace MovieFinalProject
                 // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
                 app.UseHsts();
             }
-          
+            
             app.UseHttpsRedirection();
             app.UseStaticFiles();
             app.UseRouting();

@@ -1,5 +1,0 @@
-D:\Code Academy\BackEnd\MovieFinalProject\MovieFinalProject.Entities\obj\Debug\net8.0\MovieFinalProject.Entities.GeneratedMSBuildEditorConfig.editorconfig
-D:\Code Academy\BackEnd\MovieFinalProject\MovieFinalProject.Entities\obj\Debug\net8.0\MovieFinalProject.Entities.AssemblyInfoInputs.cache
-D:\Code Academy\BackEnd\MovieFinalProject\MovieFinalProject.Entities\obj\Debug\net8.0\MovieFinalProject.Entities.AssemblyInfo.cs
-D:\Code Academy\BackEnd\MovieFinalProject\MovieFinalProject.Entities\obj\Debug\net8.0\MovieFinalProject.Entities.csproj.CoreCompileInputs.cache
-D:\Code Academy\BackEnd\MovieFinalProject\MovieFinalProject.Entities\obj\Debug\net8.0\MovieFinalProject.Entities.sourcelink.json

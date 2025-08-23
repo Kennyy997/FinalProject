@@ -1,6 +1,7 @@
 ﻿using MovieFinalProject.Controllers;
 using MovieFinalProject.DataAccessLayer.Entities;
 using MovieFinalProject.DataContext.Entities;
+using Restaurant.Controllers;
 
 namespace MovieFinalProject.ViewModel
 {
@@ -16,5 +17,6 @@ namespace MovieFinalProject.ViewModel
         public List<Slider> Sliders { get; set; } = new List<Slider>();
         public List<ExpectedMovies> ExpectedMovies { get; set; } = new List<ExpectedMovies>();
         public List<Quality> Qualities { get; set; } = new List<Quality>();
-     }
+        public List<AppUser> appUsers { get; set; } = new List<AppUser>();
+    }
 }

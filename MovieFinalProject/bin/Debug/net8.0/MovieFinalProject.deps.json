@@ -9,6 +9,7 @@
       "MovieFinalProject/1.0.0": {
         "dependencies": {
           "Mailing": "1.0.0",
+          "Microsoft.AspNetCore.Authentication.Google": "8.0.19",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "8.0.19",
           "Microsoft.EntityFrameworkCore": "8.0.19",
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.19",
@@ -611,6 +612,14 @@
           "lib/net6.0/MailKit.dll": {
             "assemblyVersion": "3.1.0.0",
             "fileVersion": "3.1.1.0"
+          }
+        }
+      },
+      "Microsoft.AspNetCore.Authentication.Google/8.0.19": {
+        "runtime": {
+          "lib/net8.0/Microsoft.AspNetCore.Authentication.Google.dll": {
+            "assemblyVersion": "8.0.19.0",
+            "fileVersion": "8.0.1925.37204"
           }
         }
       },
@@ -2409,6 +2418,13 @@
       "sha512": "sha512-NprdMF0ABNWOqQUuqz45X5YkJK6f3vtYwwvqR6nGVdmrZ7HkahNbSATpOZ5Rj3W1cgDGf/iD8vs/oCyZ4wUO7g==",
       "path": "mailkit/3.1.1",
       "hashPath": "mailkit.3.1.1.nupkg.sha512"
+    },
+    "Microsoft.AspNetCore.Authentication.Google/8.0.19": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-FbnDLVjNTfKOoh+qV61tzqB7Vjj4WbfBpeGeGPwv03q0QmvnD+idPJV8bAk39RNG1x9AbMPHebMeRdxcv2mk0g==",
+      "path": "microsoft.aspnetcore.authentication.google/8.0.19",
+      "hashPath": "microsoft.aspnetcore.authentication.google.8.0.19.nupkg.sha512"
     },
     "Microsoft.AspNetCore.Cryptography.Internal/8.0.19": {
       "type": "package",

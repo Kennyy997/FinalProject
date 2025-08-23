@@ -26,7 +26,6 @@ namespace MovieFinalProject.DataAccessLayer
             return services;
 
         }
-        
 
     }
 }

@@ -11,7 +11,6 @@
   </ItemGroup>
 	<ItemGroup>
     <ProjectReference Include="..\DataAccessLayer\MovieFinalProject.DataAccessLayer.csproj" />
-    <ProjectReference Include="..\MovieFinalProject\MovieFinalProject.csproj" />
   </ItemGroup>
 
 </Project>

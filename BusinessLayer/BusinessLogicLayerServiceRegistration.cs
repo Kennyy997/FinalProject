@@ -1,5 +1,4 @@
 ﻿using MovieFinalProject.BusinessLogicLayer;
-using Microsoft.AspNetCore.SignalR;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;

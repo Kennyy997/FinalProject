@@ -8,5 +8,10 @@ namespace MovieFinalProject.Controllers
         {
             return View();
         }
+        public IActionResult Comments()
+        {
+            return View();
+        }
     } 
+
 }
